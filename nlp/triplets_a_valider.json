@@ -1,0 +1,11 @@
+[
+  {
+    "sujet": "tiece",
+    "relation": "porte_titre",
+    "objet": "dame",
+    "confiance": 0.85,
+    "method": "gazetteer",
+    "source_line": "btv1b55013464t_f143_z65",
+    "correct": true
+  }
+]

@@ -1,0 +1,74 @@
+{
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "medieval": "http://example.org/medieval#",
+    "porte_titre": "medieval:porteTitre",
+    "réside_à": "medieval:residesAt",
+    "agit_lors_de": "medieval:agitLorsDe",
+    "n_mentions": "medieval:nMentions",
+    "source_lines": "medieval:sourceLines"
+  },
+  "@graph": [
+    {
+      "@id": "medieval:PER:mabile",
+      "label": "mabile",
+      "type": "PER",
+      "n_mentions": 5,
+      "source_lines": [
+        "btv1b55013464t_f143_z6",
+        "btv1b55013464t_f143_z31",
+        "btv1b55013464t_f143_z52",
+        "btv1b55013464t_f143_z60",
+        "btv1b55013464t_f143_z83"
+      ]
+    },
+    {
+      "@id": "medieval:TITLE:dame",
+      "label": "dame",
+      "type": "TITLE",
+      "n_mentions": 4,
+      "source_lines": [
+        "btv1b55013464t_f143_z15",
+        "btv1b55013464t_f143_z25",
+        "btv1b55013464t_f143_z65",
+        "btv1b55013464t_f143_z96"
+      ]
+    },
+    {
+      "@id": "medieval:PER:fouch̾",
+      "label": "fouch̾",
+      "type": "PER",
+      "n_mentions": 1,
+      "source_lines": [
+        "btv1b55013464t_f143_z36"
+      ]
+    },
+    {
+      "@id": "medieval:TITLE:sire",
+      "label": "sire",
+      "type": "TITLE",
+      "n_mentions": 1,
+      "source_lines": [
+        "btv1b55013464t_f143_z65"
+      ]
+    },
+    {
+      "@id": "medieval:PER:tiece",
+      "label": "tiece",
+      "type": "PER",
+      "n_mentions": 2,
+      "source_lines": [
+        "btv1b55013464t_f143_z65",
+        "btv1b55013464t_f143_z94"
+      ],
+      "relations": [
+        {
+          "relation": "porte_titre",
+          "objet": "medieval:TITLE:dame",
+          "confiance": 0.85,
+          "method": "gazetteer"
+        }
+      ]
+    }
+  ]
+}

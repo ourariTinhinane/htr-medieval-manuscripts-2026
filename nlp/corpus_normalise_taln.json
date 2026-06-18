@@ -1,0 +1,2047 @@
+[
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 0,
+    "texte_brut": "n e metre en lieu ou il me uoie",
+    "texte_normalise": "n e metre en lieu ou il me voie",
+    "ambiguites": [],
+    "confidence_htr": 0.9393834315890781,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 1,
+    "texte_brut": "⁊ si me sui mors a mes mains",
+    "texte_normalise": "et si me sui mors a mes mains",
+    "ambiguites": [],
+    "confidence_htr": 0.9690337822611612,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 2,
+    "texte_brut": "a mon pere ce est du mains",
+    "texte_normalise": "a mon pere ce est du mains",
+    "ambiguites": [],
+    "confidence_htr": 0.9978605526270043,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 3,
+    "texte_brut": "Trop sui mesfez mes toute uoie",
+    "texte_normalise": "Trop sui mesfez mes toute voie",
+    "ambiguites": [],
+    "confidence_htr": 0.9491511718075623,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 4,
+    "texte_brut": "Nose roie ie reperier",
+    "texte_normalise": "Nose roie je reperier",
+    "ambiguites": [],
+    "confidence_htr": 0.8839203913505758,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 5,
+    "texte_brut": "e stuet q̃ deuant lui mapere",
+    "texte_normalise": "e stuet que devant lui mapere",
+    "ambiguites": [],
+    "confidence_htr": 0.9790840702631742,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 6,
+    "texte_brut": "Aillors me couient a airier",
+    "texte_normalise": "Aillors me couient a airier",
+    "ambiguites": [],
+    "confidence_htr": 0.9389113217508388,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 7,
+    "texte_brut": "Ie sui ses filz il est mes pere",
+    "texte_normalise": "Ie sui ses filz il est mes pere",
+    "ambiguites": [],
+    "confidence_htr": 0.9567015709862626,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 8,
+    "texte_brut": "Si ne sai ou ne de q̃l ꝑt",
+    "texte_normalise": "Si ne sai ou ne de quel part",
+    "ambiguites": [
+      "'ꝑ' → 'par' (par/per/pro : 'par' par défaut, majoritaire dans ce corpus)"
+    ],
+    "confidence_htr": 0.971594662609181,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 9,
+    "texte_brut": "m es trop desdaignai son seruice",
+    "texte_normalise": "m es trop desdaignai son seruice",
+    "ambiguites": [],
+    "confidence_htr": 0.8730382542166057,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 10,
+    "texte_brut": "sai tel faín q̃ li cuers me ꝑt",
+    "texte_normalise": "sai tel faín que li cuers me part",
+    "ambiguites": [
+      "'ꝑ' → 'par' (par/per/pro : 'par' par défaut, majoritaire dans ce corpus)",
+      "accent combinant U+0301 : sens variable, non résolu automatiquement"
+    ],
+    "confidence_htr": 0.9578462181619704,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 11,
+    "texte_brut": "Il me voit si ne me rauise",
+    "texte_normalise": "Il me voit si ne me rauise",
+    "ambiguites": [],
+    "confidence_htr": 0.9105452016650307,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 12,
+    "texte_brut": "Bĩe moublie diex ⁊ adosse",
+    "texte_normalise": "Bine moublie diex et adosse",
+    "ambiguites": [],
+    "confidence_htr": 0.9570961845523217,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 13,
+    "texte_brut": "Por ce ꝯq̃s mes ne me uit",
+    "texte_normalise": "Por ce conques mes ne me uit",
+    "ambiguites": [],
+    "confidence_htr": 0.9907614331244352,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 14,
+    "texte_brut": "O n deus dras ne en tel abit",
+    "texte_normalise": "O n deus dras ne en tel abit",
+    "ambiguites": [],
+    "confidence_htr": 0.9696216233516645,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 15,
+    "texte_brut": "Ne sai se de ces pois en cosse",
+    "texte_normalise": "Ne sai se de ces pois en cosse",
+    "ambiguites": [],
+    "confidence_htr": 0.9167481861104555,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 16,
+    "texte_brut": "Ce me fet honteus ⁊ couart",
+    "texte_normalise": "Ce me fet honteus et covart",
+    "ambiguites": [],
+    "confidence_htr": 0.9611447405027684,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 17,
+    "texte_brut": "q̃ ie uoi a ces pors fouler",
+    "texte_normalise": "que je voi a ces pors fouler",
+    "ambiguites": [],
+    "confidence_htr": 0.9226811345714335,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 18,
+    "texte_brut": "⁊ q̃ me ualent si regart",
+    "texte_normalise": "et que me valent si regart",
+    "ambiguites": [],
+    "confidence_htr": 0.9791375572449544,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 19,
+    "texte_brut": "Me porroie ia saouler",
+    "texte_normalise": "Me porroie ja saouler",
+    "ambiguites": [],
+    "confidence_htr": 0.9831763204802849,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 20,
+    "texte_brut": "⁊ ma grãt famine abessier",
+    "texte_normalise": "et ma grant famine abessier",
+    "ambiguites": [],
+    "confidence_htr": 0.9126391780568776,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 21,
+    "texte_brut": "q uãt il ne me puet rententie",
+    "texte_normalise": "q vant il ne me puet rententie",
+    "ambiguites": [],
+    "confidence_htr": 0.9078581907931678,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 22,
+    "texte_brut": "r õpre me couient ⁊ ꝑcier",
+    "texte_normalise": "r ompre me couient et parcier",
+    "ambiguites": [
+      "'ꝑ' → 'par' (par/per/pro : 'par' par défaut, majoritaire dans ce corpus)"
+    ],
+    "confidence_htr": 0.9245849467076949,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 23,
+    "texte_brut": "Il ni a fors de lessaier",
+    "texte_normalise": "Il ni a fors de lessaier",
+    "ambiguites": [],
+    "confidence_htr": 0.951096985223725,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 24,
+    "texte_brut": "n est pas droiz q̃ morir me lesse",
+    "texte_normalise": "n est pas droiz que morir me lesse",
+    "ambiguites": [],
+    "confidence_htr": 0.9934847344212422,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 25,
+    "texte_brut": "c este grãt honte ⁊ ceste angoisse",
+    "texte_normalise": "c este grant honte et ceste angoisse",
+    "ambiguites": [],
+    "confidence_htr": 0.950280503785261,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 26,
+    "texte_brut": "⁊ fere tant qͥl me ꝯnoisse",
+    "texte_normalise": "et fere tant qͥl me connoisse",
+    "ambiguites": [],
+    "confidence_htr": 0.9802610087830805,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 27,
+    "texte_brut": "diex nouiaus pois ou an men cresse",
+    "texte_normalise": "diex nouiaus pois ou an men cresse",
+    "ambiguites": [],
+    "confidence_htr": 0.8532869815572219,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 28,
+    "texte_brut": "i ames ne li serai eschis",
+    "texte_normalise": "i ames ne li serai eschis",
+    "ambiguites": [],
+    "confidence_htr": 0.9034226252968189,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 29,
+    "texte_brut": "a usi me trueuent il ml̾t maigre",
+    "texte_normalise": "a usi me truevent il ml̾t maigre",
+    "ambiguites": [
+      "tilde verticale U+033E : troncation non résolue automatiquement"
+    ],
+    "confidence_htr": 0.9751021752096504,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 30,
+    "texte_brut": "B iaus pere des filz li chetis",
+    "texte_normalise": "B jaus pere des filz li chetis",
+    "ambiguites": [],
+    "confidence_htr": 0.9778382141908447,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 31,
+    "texte_brut": "diex ꝯme il st̃ amer ⁊ aigre",
+    "texte_normalise": "diex comme il st̃ amer et aigre",
+    "ambiguites": [],
+    "confidence_htr": 0.9604115867779389,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 32,
+    "texte_brut": "q ͥ folement parti de toi",
+    "texte_normalise": "q ͥ folement parti de toi",
+    "ambiguites": [],
+    "confidence_htr": 0.9269448557025154,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 33,
+    "texte_brut": "i en ferai ie cuit poi dessart",
+    "texte_normalise": "i en ferai je cuit poi dessart",
+    "ambiguites": [],
+    "confidence_htr": 0.9584637590265787,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 34,
+    "texte_brut": "ne ne uout croire ton chastoi",
+    "texte_normalise": "ne ne vout croire ton chastoi",
+    "ambiguites": [],
+    "confidence_htr": 0.9585197657513366,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 35,
+    "texte_brut": "Il uousissent ml̃t miex au lart",
+    "texte_normalise": "Il vousissent ml̃t miex au lart",
+    "ambiguites": [],
+    "confidence_htr": 0.9384099852102775,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 36,
+    "texte_brut": "Sil fussent bien pile ⁊ cuit",
+    "texte_normalise": "Sil fussent bien pile et cuit",
+    "ambiguites": [],
+    "confidence_htr": 0.9428727461301653,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 37,
+    "texte_brut": "n e ta uolente otroier",
+    "texte_normalise": "n e ta volente otroier",
+    "ambiguites": [],
+    "confidence_htr": 0.9132748775172678,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 38,
+    "texte_brut": "Ie me morrai de faim ie cuit",
+    "texte_normalise": "Ie me morrai de faim je cuit",
+    "ambiguites": [],
+    "confidence_htr": 0.9567280115146299,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 39,
+    "texte_brut": "te uient ici merci proier",
+    "texte_normalise": "te uient ici merci proier",
+    "ambiguites": [],
+    "confidence_htr": 0.9703228704995958,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 40,
+    "texte_brut": "toz repentanz de ses mesfez",
+    "texte_normalise": "toz repentanz de ses mesfez",
+    "ambiguites": [],
+    "confidence_htr": 0.9768604342111843,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 41,
+    "texte_brut": "G rãt mestier ai q̃ diex mauoit",
+    "texte_normalise": "G rant mestier ai que diex mavoit",
+    "ambiguites": [],
+    "confidence_htr": 0.9661549627407383,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 42,
+    "texte_brut": "f ilz lieue sus trop des miestez",
+    "texte_normalise": "f ilz lieve sus trop des miestez",
+    "ambiguites": [],
+    "confidence_htr": 0.9032579692045309,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 43,
+    "texte_brut": "⁊ tes se mon pere sauoit",
+    "texte_normalise": "et tes se mon pere savoit",
+    "ambiguites": [],
+    "confidence_htr": 0.9348398005950237,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 44,
+    "texte_brut": "qͥ ci te mes agenillons",
+    "texte_normalise": "qͥ ci te mes agenillons",
+    "ambiguites": [],
+    "confidence_htr": 0.9765651202410682,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 45,
+    "texte_brut": "Le faim q̃ ie sueffre ca fuer",
+    "texte_normalise": "Le faim que je sueffre ca fuer",
+    "ambiguites": [],
+    "confidence_htr": 0.8679091521511858,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 46,
+    "texte_brut": "di moi de qoi est la resons",
+    "texte_normalise": "di moi de qoi est la resons",
+    "ambiguites": [],
+    "confidence_htr": 0.9904494461287228,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 47,
+    "texte_brut": "G rãt pitie len prendioit au cuer",
+    "texte_normalise": "G rant pitie len prendioit au cuer",
+    "ambiguites": [],
+    "confidence_htr": 0.9501222031806263,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 48,
+    "texte_brut": "⁊ me uoudroit ueoir aus iex",
+    "texte_normalise": "et me voudroit veoir aus jex",
+    "ambiguites": [],
+    "confidence_htr": 0.9934398641856067,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 49,
+    "texte_brut": "por qoi tu me requiers m̾ci",
+    "texte_normalise": "por qoi tu me requiers m̾ci",
+    "ambiguites": [
+      "tilde verticale U+033E : troncation non résolue automatiquement"
+    ],
+    "confidence_htr": 0.97757575378966,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 50,
+    "texte_brut": "le raler me seroit du mier",
+    "texte_normalise": "le raler me seroit du mier",
+    "ambiguites": [],
+    "confidence_htr": 0.9663340511622253,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 51,
+    "texte_brut": "h ai biaus doiz pere ueez ci",
+    "texte_normalise": "h ai biaus doiz pere veez ci",
+    "ambiguites": [],
+    "confidence_htr": 0.8924345392030607,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 52,
+    "texte_brut": "⁊ puis q̃ raler men estuet",
+    "texte_normalise": "et puis que raler men estuet",
+    "ambiguites": [],
+    "confidence_htr": 0.9860000239217341,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 53,
+    "texte_brut": "Uo fil cortois leschetiue",
+    "texte_normalise": "Uo fil cortois leschetive",
+    "ambiguites": [],
+    "confidence_htr": 0.9054447269893724,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 54,
+    "texte_brut": "ꝑ dieu or en soit q̃stre puet",
+    "texte_normalise": "par dieu or en soit questre puet",
+    "ambiguites": [
+      "'ꝑ' → 'par' (par/per/pro : 'par' par défaut, majoritaire dans ce corpus)"
+    ],
+    "confidence_htr": 0.9978047367490336,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 55,
+    "texte_brut": "qͥ tant a uers uꝰ meserre",
+    "texte_normalise": "qͥ tant a vers uꝰ meserre",
+    "ambiguites": [],
+    "confidence_htr": 0.875507508107789,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 56,
+    "texte_brut": "q̃r aincois q̃ ie nuire a",
+    "texte_normalise": "quer aincois que je nuire a",
+    "ambiguites": [],
+    "confidence_htr": 0.9667246734013583,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 57,
+    "texte_brut": "⁊ ouure sus uostre defois",
+    "texte_normalise": "et ouvre sus vostre defois",
+    "ambiguites": [],
+    "confidence_htr": 0.9877984514410062,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 58,
+    "texte_brut": "biaus douz filz ꝑ . c. mile fois",
+    "texte_normalise": "biaus douz filz par . c. mile fois",
+    "ambiguites": [
+      "'ꝑ' → 'par' (par/per/pro : 'par' par défaut, majoritaire dans ce corpus)"
+    ],
+    "confidence_htr": 0.9373658892357978,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 59,
+    "texte_brut": "req̃rai mon pere m̾ci",
+    "texte_normalise": "requerai mon pere m̾ci",
+    "ambiguites": [
+      "tilde verticale U+033E : troncation non résolue automatiquement"
+    ],
+    "confidence_htr": 0.8980238846608656,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 60,
+    "texte_brut": "b ée saí vers mon pais la uoie",
+    "texte_normalise": "b ée saí vers mon pais la voie",
+    "ambiguites": [
+      "accent combinant U+0301 : sens variable, non résolu automatiquement"
+    ],
+    "confidence_htr": 0.8324750937608697,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 61,
+    "texte_brut": "Soies tu li tres biẽ uenuz",
+    "texte_normalise": "Soies tu li tres bien venuz",
+    "ambiguites": [],
+    "confidence_htr": 0.8741849629136046,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 62,
+    "texte_brut": "mes ie cuit q̃ enuis me uoie",
+    "texte_normalise": "mes je cuit que enuis me voie",
+    "ambiguites": [],
+    "confidence_htr": 0.9758809557866049,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 63,
+    "texte_brut": "affuble toi q̃ trop es nus",
+    "texte_normalise": "affuble toi que trop es nus",
+    "ambiguites": [],
+    "confidence_htr": 0.8965154122597138,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 64,
+    "texte_brut": "Mon pere ⁊ du sien poi me doĩst",
+    "texte_normalise": "Mon pere et du sien poi me doinst",
+    "ambiguites": [],
+    "confidence_htr": 0.9110675406487554,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 65,
+    "texte_brut": "I ames ne te recõneusse",
+    "texte_normalise": "I ames ne te reconneusse",
+    "ambiguites": [],
+    "confidence_htr": 0.9009212957148276,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 66,
+    "texte_brut": "biaus filz se ie des ies ser seusse",
+    "texte_normalise": "biaus filz se je des jes ser seusse",
+    "ambiguites": [],
+    "confidence_htr": 0.8583346052334642,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 67,
+    "texte_brut": "quãt me u̾ra en si uil point",
+    "texte_normalise": "quant me u̾ra en si uil point",
+    "ambiguites": [
+      "tilde verticale U+033E : troncation non résolue automatiquement"
+    ],
+    "confidence_htr": 0.8900616444316988,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 68,
+    "texte_brut": "b ĩe sui uenuz du mont ou ual",
+    "texte_normalise": "b ine sui venuz du mont ou val",
+    "ambiguites": [],
+    "confidence_htr": 0.9249178900422307,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 69,
+    "texte_brut": "q̃ tu uenisses en tel guise",
+    "texte_normalise": "que tu venisses en tel guise",
+    "ambiguites": [],
+    "confidence_htr": 0.9874432647825321,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 70,
+    "texte_brut": "M es se ie ralaisse a cheual",
+    "texte_normalise": "M es se je ralaisse a cheval",
+    "ambiguites": [],
+    "confidence_htr": 0.978127740441268,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 71,
+    "texte_brut": "Ie teusse autre robe quise",
+    "texte_normalise": "Ie teusse autre robe quise",
+    "ambiguites": [],
+    "confidence_htr": 0.975008590088989,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 72,
+    "texte_brut": "B i᷑ uestuz dune robe uaire",
+    "texte_normalise": "B i᷑ vestuz dune robe vaire",
+    "ambiguites": [],
+    "confidence_htr": 0.7657237803401806,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 73,
+    "texte_brut": "Tou mesfet ne pris une nois",
+    "texte_normalise": "Tou mesfet ne pris une nois",
+    "ambiguites": [],
+    "confidence_htr": 0.9456176095145513,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 74,
+    "texte_brut": "I eusse assez meillor repaire",
+    "texte_normalise": "I eusse assez meillor repaire",
+    "ambiguites": [],
+    "confidence_htr": 0.9769145770713378,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 75,
+    "texte_brut": "des puis q̃ tu de recõnois",
+    "texte_normalise": "des puis que tu de reconnois",
+    "ambiguites": [],
+    "confidence_htr": 0.940949656026937,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 76,
+    "texte_brut": "⁊ q̃ tu as le mal lessie",
+    "texte_normalise": "et que tu as le mal lessie",
+    "ambiguites": [],
+    "confidence_htr": 0.9970539726682113,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 77,
+    "texte_brut": "M es or ni aura poĩt de feste",
+    "texte_normalise": "M es or ni aura point de feste",
+    "ambiguites": [],
+    "confidence_htr": 0.8856278767180799,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 78,
+    "texte_brut": "q ͣ mon frere est si pute beste",
+    "texte_normalise": "q ͣ mon frere est si pute beste",
+    "ambiguites": [],
+    "confidence_htr": 0.9633371910475935,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 79,
+    "texte_brut": "Mon ueel le miex en crestie",
+    "texte_normalise": "Mon veel le miex en crestie",
+    "ambiguites": [],
+    "confidence_htr": 0.9084598158380378,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 80,
+    "texte_brut": "q̃ il maura tost reproue",
+    "texte_normalise": "que il maura tost reprove",
+    "ambiguites": [],
+    "confidence_htr": 0.9963727897875411,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 81,
+    "texte_brut": "tuerons por ta biẽ uenue",
+    "texte_normalise": "tuerons por ta bien venue",
+    "ambiguites": [],
+    "confidence_htr": 0.9149916930515128,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 82,
+    "texte_brut": "q̃ iaurai le ch̾ tens troue",
+    "texte_normalise": "que jaurai le ch̾ tens trove",
+    "ambiguites": [
+      "tilde verticale U+033E : troncation non résolue automatiquement"
+    ],
+    "confidence_htr": 0.8747844701079354,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 83,
+    "texte_brut": "d õt nostre cort sera tenue",
+    "texte_normalise": "d ont nostre cort sera tenue",
+    "ambiguites": [],
+    "confidence_htr": 0.9253748031885927,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 84,
+    "texte_brut": "m es se mon frere est de putain",
+    "texte_normalise": "m es se mon frere est de putain",
+    "ambiguites": [],
+    "confidence_htr": 0.9726120699359583,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 85,
+    "texte_brut": "ca dedenz en nostre manage",
+    "texte_normalise": "ca dedenz en nostre manage",
+    "ambiguites": [],
+    "confidence_htr": 0.9370603989265276,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 86,
+    "texte_brut": "M es peres est plus debonaire",
+    "texte_normalise": "M es peres est plus debonaire",
+    "ambiguites": [],
+    "confidence_htr": 0.9414194575055053,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 87,
+    "texte_brut": "⁊ manderons nostre uisnage",
+    "texte_normalise": "et manderons nostre uisnage",
+    "ambiguites": [],
+    "confidence_htr": 0.9801921537115443,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 88,
+    "texte_brut": "⁊ miex set entendre reson",
+    "texte_normalise": "et miex set entendre reson",
+    "ambiguites": [],
+    "confidence_htr": 0.9592331556067315,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 89,
+    "texte_brut": "tu as ore eu mal assez",
+    "texte_normalise": "tu as ore eu mal assez",
+    "ambiguites": [],
+    "confidence_htr": 0.9976898000827745,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 90,
+    "texte_brut": "h e diex ie uoi nostre meson",
+    "texte_normalise": "h e diex je voi nostre meson",
+    "ambiguites": [],
+    "confidence_htr": 0.884038146719436,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 91,
+    "texte_brut": "tant q̃ tu soies respassez",
+    "texte_normalise": "tant que tu soies respassez",
+    "ambiguites": [],
+    "confidence_htr": 0.9447603559319888,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 92,
+    "texte_brut": "L es fenestres ⁊ les aruols",
+    "texte_normalise": "L es fenestres et les aruols",
+    "ambiguites": [],
+    "confidence_htr": 0.8799191052089014,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 93,
+    "texte_brut": "estuet ꝯ te baigne ⁊ dangiere",
+    "texte_normalise": "estuet con te baigne et dangiere",
+    "ambiguites": [],
+    "confidence_htr": 0.9007470679413764,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 94,
+    "texte_brut": "dõt ie me ꝑdi ꝯme fols",
+    "texte_normalise": "dont je me pardi comme fols",
+    "ambiguites": [
+      "'ꝑ' → 'par' (par/per/pro : 'par' par défaut, majoritaire dans ce corpus)"
+    ],
+    "confidence_htr": 0.9836567721284688,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 95,
+    "texte_brut": "Hez auãt ie uieng a prangiere",
+    "texte_normalise": "Hez avant je uieng a prangiere",
+    "ambiguites": [],
+    "confidence_htr": 0.9040563340200782,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 96,
+    "texte_brut": "Mon pere uoi dedenz seoir",
+    "texte_normalise": "Mon pere voi dedenz seoir",
+    "ambiguites": [],
+    "confidence_htr": 0.9689930722315087,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 97,
+    "texte_brut": "M l̾t est ore esmus cis osteus",
+    "texte_normalise": "M l̾t est ore esmus cis osteus",
+    "ambiguites": [
+      "tilde verticale U+033E : troncation non résolue automatiquement"
+    ],
+    "confidence_htr": 0.8828530058321207,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 98,
+    "texte_brut": "M es ie ne loserai ueoir",
+    "texte_normalise": "M es je ne loserai veoir",
+    "ambiguites": [],
+    "confidence_htr": 0.9379582419361041,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f141",
+    "zone_id": 99,
+    "texte_brut": "qͥ est or cis nouiaus piteus",
+    "texte_normalise": "qͥ est or cis nouiaus piteus",
+    "ambiguites": [],
+    "confidence_htr": 0.907199552407209,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 0,
+    "texte_brut": "h ors du pais en autre terre",
+    "texte_normalise": "h ors du pais en autre terre",
+    "ambiguites": [],
+    "confidence_htr": 0.9455895362940435,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 1,
+    "texte_brut": ".xx. ẜ. et .xxxix.",
+    "texte_normalise": ".xx. ẜ. et .xxxix.",
+    "ambiguites": [],
+    "confidence_htr": 0.9256964435009396,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 2,
+    "texte_brut": "⁊ ie lai fete maint ior q̃rre",
+    "texte_normalise": "et je lai fete maint jor querre",
+    "ambiguites": [],
+    "confidence_htr": 0.976443138230229,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 3,
+    "texte_brut": "I tãt furent uendu mi buef",
+    "texte_normalise": "I tant furent vendu mi buef",
+    "ambiguites": [],
+    "confidence_htr": 0.9179782385487556,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 4,
+    "texte_brut": "en maĩt pais ẽ mainte uile",
+    "texte_normalise": "en maint pais en mainte uile",
+    "ambiguites": [],
+    "confidence_htr": 0.9694246427779057,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 5,
+    "texte_brut": "diex cor ne sai q̃ tout ce monte",
+    "texte_normalise": "diex cor ne sai que tout ce monte",
+    "ambiguites": [],
+    "confidence_htr": 0.9946496657083785,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 6,
+    "texte_brut": "ahi  douce niece mabile",
+    "texte_normalise": "ahi douce niece mabile",
+    "ambiguites": [],
+    "confidence_htr": 0.7043252615192128,
+    "needs_review_htr": true,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 7,
+    "texte_brut": "Si meisse tout en .i. conte",
+    "texte_normalise": "Si meisse tout en .i. conte",
+    "ambiguites": [],
+    "confidence_htr": 0.9856673948579302,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 8,
+    "texte_brut": "tãt estuiez de bon lignage",
+    "texte_normalise": "tant estuiez de bon lignage",
+    "ambiguites": [],
+    "confidence_htr": 0.8092881742680149,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 9,
+    "texte_brut": "Ie ne le sauroie sõmer",
+    "texte_normalise": "Ie ne le sauroie sommer",
+    "ambiguites": [],
+    "confidence_htr": 0.9378181885949316,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 10,
+    "texte_brut": "qͥ me deuroit tout assõmer",
+    "texte_normalise": "qͥ me deuroit tout assommer",
+    "ambiguites": [],
+    "confidence_htr": 0.9317511775956513,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 11,
+    "texte_brut": "D õt uꝰ uint ore cel corage",
+    "texte_normalise": "D ont uꝰ uint ore cel corage",
+    "ambiguites": [],
+    "confidence_htr": 0.8914474004806748,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 12,
+    "texte_brut": "ne le sauroie ie des mois",
+    "texte_normalise": "ne le sauroie je des mois",
+    "ambiguites": [],
+    "confidence_htr": 0.9812718300778894,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 13,
+    "texte_brut": "or st̾ tuit troi mort mi enfãt",
+    "texte_normalise": "or st̾ tuit troi mort mi enfant",
+    "ambiguites": [
+      "tilde verticale U+033E : troncation non résolue automatiquement"
+    ],
+    "confidence_htr": 0.8799861284001471,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 14,
+    "texte_brut": "Se nauoie feues ou pois",
+    "texte_normalise": "Se navoie feves ou pois",
+    "ambiguites": [],
+    "confidence_htr": 0.9776806878781442,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 15,
+    "texte_brut": "⁊ ma fame dame si ertant",
+    "texte_normalise": "et ma fame dame si ertant",
+    "ambiguites": [],
+    "confidence_htr": 0.8268813533819829,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 16,
+    "texte_brut": "q̃ chasꝯs pois feist .i. sout",
+    "texte_normalise": "que chascons pois feist .i. sout",
+    "ambiguites": [],
+    "confidence_htr": 0.9516045131644438,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 17,
+    "texte_brut": "I ames en mon cuer naurai ioie",
+    "texte_normalise": "I ames en mon cuer naurai joie",
+    "ambiguites": [],
+    "confidence_htr": 0.9699763823843132,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 18,
+    "texte_brut": "ainsi le sauroie ie tout",
+    "texte_normalise": "ainsi le sauroie je tout",
+    "ambiguites": [],
+    "confidence_htr": 0.9211490217293089,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 19,
+    "texte_brut": "deuant cele eure q̃ ie uoie",
+    "texte_normalise": "devant cele eure que je voie",
+    "ambiguites": [],
+    "confidence_htr": 0.9744782114753189,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 20,
+    "texte_brut": "⁊ ne porquant me dist sirous",
+    "texte_normalise": "et ne porquant me dist sirous",
+    "ambiguites": [],
+    "confidence_htr": 0.9119898112112607,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 21,
+    "texte_brut": "m a douce níece en aucun tans",
+    "texte_normalise": "m a douce níece en aucun tans",
+    "ambiguites": [
+      "accent combinant U+0301 : sens variable, non résolu automatiquement"
+    ],
+    "confidence_htr": 0.8635065644184554,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 22,
+    "texte_brut": "q̃ ioi des bues .i. ẜ.",
+    "texte_normalise": "que joi des bues .i. ẜ.",
+    "ambiguites": [],
+    "confidence_htr": 0.9496006432818093,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 23,
+    "texte_brut": "Lors me rendisse moines blans",
+    "texte_normalise": "Lors me rendisse moines blans",
+    "ambiguites": [],
+    "confidence_htr": 0.8326325383840723,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 24,
+    "texte_brut": "qui les ꝯta si les recut",
+    "texte_normalise": "qui les conta si les recut",
+    "ambiguites": [],
+    "confidence_htr": 0.9985135926086642,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 25,
+    "texte_brut": "dame fust oi de mon auoir",
+    "texte_normalise": "dame fust oi de mon avoir",
+    "ambiguites": [],
+    "confidence_htr": 0.8939370043514093,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 26,
+    "texte_brut": "M es ie ne sai sil men decut",
+    "texte_normalise": "M es je ne sai sil men decut",
+    "ambiguites": [],
+    "confidence_htr": 0.9594891647774592,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 27,
+    "texte_brut": "riche mari peust auoir",
+    "texte_normalise": "riche mari peust avoir",
+    "ambiguites": [],
+    "confidence_htr": 0.9990815613945695,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 28,
+    "texte_brut": "ainsi la plaĩt ainsi la pleuere",
+    "texte_normalise": "ainsi la plaint ainsi la plevere",
+    "ambiguites": [],
+    "confidence_htr": 0.9259216385506623,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 29,
+    "texte_brut": "ne sil men a neant emble",
+    "texte_normalise": "ne sil men a neant emble",
+    "ambiguites": [],
+    "confidence_htr": 0.9340362322636907,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 30,
+    "texte_brut": "quentre .ii. sesfiere de ble",
+    "texte_normalise": "quentre .ii. sesfiere de ble",
+    "ambiguites": [],
+    "confidence_htr": 0.9419589123804636,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 31,
+    "texte_brut": "⁊ mabile saut en cele eure",
+    "texte_normalise": "et mabile saut en cele eure",
+    "ambiguites": [],
+    "confidence_htr": 0.9950613384107246,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 32,
+    "texte_brut": "⁊ ma ium̃t ⁊ mes porciaus",
+    "texte_normalise": "et ma jum̃t et mes porciaus",
+    "ambiguites": [],
+    "confidence_htr": 0.9658395928972519,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 33,
+    "texte_brut": "Lez lui sassist ⁊ dist preudõ",
+    "texte_normalise": "Lez lui sassist et dist preudon",
+    "ambiguites": [],
+    "confidence_htr": 0.9396233780901724,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 34,
+    "texte_brut": "⁊ la laine de mes aigniaus",
+    "texte_normalise": "et la laine de mes aigniaus",
+    "ambiguites": [],
+    "confidence_htr": 0.9779853599231592,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 35,
+    "texte_brut": "dont estes uꝰ. ⁊ uostre non",
+    "texte_normalise": "dont estes uꝰ. et vostre non",
+    "ambiguites": [],
+    "confidence_htr": 0.9113113206199468,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 36,
+    "texte_brut": "Ie ai non fouch̾ de la bouce",
+    "texte_normalise": "Ie ai non fouch̾ de la bouce",
+    "ambiguites": [
+      "tilde verticale U+033E : troncation non résolue automatiquement"
+    ],
+    "confidence_htr": 0.9292743436282012,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 37,
+    "texte_brut": "Me rendirent tout autrestãt",
+    "texte_normalise": "Me rendirent tout autrestant",
+    "ambiguites": [],
+    "confidence_htr": 0.9580447459103787,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 38,
+    "texte_brut": "mes uꝰ sãblez ma niece douce",
+    "texte_normalise": "mes uꝰ samblez ma niece douce",
+    "ambiguites": [],
+    "confidence_htr": 0.8936428604171947,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 39,
+    "texte_brut": ".ii. foiz .i. ce sont . cxxx",
+    "texte_normalise": ".ii. foiz .i. ce sont . cxxx",
+    "ambiguites": [],
+    "confidence_htr": 0.8686290689407417,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 40,
+    "texte_brut": "ce dist uns gars qͥ fist mon ꝯte",
+    "texte_normalise": "ce dist uns gars qͥ fist mon conte",
+    "ambiguites": [],
+    "confidence_htr": 0.9804453158456037,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 41,
+    "texte_brut": "Plus q̃ nule fame qͥ fust",
+    "texte_normalise": "Plus que nule fame qͥ fust",
+    "ambiguites": [],
+    "confidence_htr": 0.9695618430150246,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 42,
+    "texte_brut": "cele se pasme sor le fust",
+    "texte_normalise": "cele se pasme sor le fust",
+    "ambiguites": [],
+    "confidence_htr": 0.9834868542309562,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 43,
+    "texte_brut": "u lib dist q̃ tout ce monte",
+    "texte_normalise": "u lib dist que tout ce monte",
+    "ambiguites": [],
+    "confidence_htr": 0.8514613465949729,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 44,
+    "texte_brut": "q uãt se rediece si dist tant",
+    "texte_normalise": "q vant se rediece si dist tant",
+    "ambiguites": [],
+    "confidence_htr": 0.9331885841046892,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 45,
+    "texte_brut": "or ne le rai por nule paine",
+    "texte_normalise": "or ne le rai por nule paine",
+    "ambiguites": [],
+    "confidence_htr": 0.9490664947607478,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 46,
+    "texte_brut": "q̃ ma borse q̃st toute plaine",
+    "texte_normalise": "que ma borse quest toute plaine",
+    "ambiguites": [],
+    "confidence_htr": 0.9949281613527535,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 47,
+    "texte_brut": "or ai ie ce q̃ ie demant",
+    "texte_normalise": "or ai je ce que je demant",
+    "ambiguites": [],
+    "confidence_htr": 0.9911566054598341,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 48,
+    "texte_brut": "pꝰ si la cole ⁊ si lembiace",
+    "texte_normalise": "pꝰ si la cole et si lembiace",
+    "ambiguites": [],
+    "confidence_htr": 0.9162079749013134,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 49,
+    "texte_brut": "ne soit uuidie en mon giron",
+    "texte_normalise": "ne soit uvidie en mon giron",
+    "ambiguites": [],
+    "confidence_htr": 0.9680961351911791,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 50,
+    "texte_brut": "⁊ puis li best bouche ⁊ face",
+    "texte_normalise": "et puis li best bouche et face",
+    "ambiguites": [],
+    "confidence_htr": 0.9456961341878541,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 51,
+    "texte_brut": "⁊ li houlier de la meson",
+    "texte_normalise": "et li houlier de la meson",
+    "ambiguites": [],
+    "confidence_htr": 0.9340100255287834,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 52,
+    "texte_brut": "dient ca uien mabile escoute",
+    "texte_normalise": "dient ca uien mabile escoute",
+    "ambiguites": [],
+    "confidence_htr": 0.932569360138811,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 53,
+    "texte_brut": "q̃ ia nen sãble estre saoule",
+    "texte_normalise": "que ja nen samble estre saoule",
+    "ambiguites": [],
+    "confidence_htr": 0.9647853691635561,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 54,
+    "texte_brut": "cil . d̾. st̾ nostre sanz doute",
+    "texte_normalise": "cil . d̾. st̾ nostre sanz doute",
+    "ambiguites": [
+      "tilde verticale U+033E : troncation non résolue automatiquement"
+    ],
+    "confidence_htr": 0.9545515909720566,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 55,
+    "texte_brut": "⁊ celui qͥ ml̾t sot de boule",
+    "texte_normalise": "et celui qͥ ml̾t sot de boule",
+    "ambiguites": [
+      "tilde verticale U+033E : troncation non résolue automatiquement"
+    ],
+    "confidence_htr": 0.9749942395592116,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 56,
+    "texte_brut": "estraĩt les denz ⁊ puis souspire",
+    "texte_normalise": "estraint les denz et puis souspire",
+    "ambiguites": [],
+    "confidence_htr": 0.9393420948211679,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 57,
+    "texte_brut": "Se tu mes ceenz ce uilain",
+    "texte_normalise": "Se tu mes ceenz ce uilain",
+    "ambiguites": [],
+    "confidence_htr": 0.9980223924994969,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 58,
+    "texte_brut": "Il ne st̾ mie a son oes sain",
+    "texte_normalise": "Il ne st̾ mie a son oes sain",
+    "ambiguites": [
+      "tilde verticale U+033E : troncation non résolue automatiquement"
+    ],
+    "confidence_htr": 0.9877317655525059,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 59,
+    "texte_brut": "b ele niece ne uꝰ puis dire",
+    "texte_normalise": "b ele niece ne uꝰ puis dire",
+    "ambiguites": [],
+    "confidence_htr": 0.9575776962506246,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 60,
+    "texte_brut": "d ist mabile lessiez le en pes",
+    "texte_normalise": "d ist mabile lessiez le en pes",
+    "ambiguites": [],
+    "confidence_htr": 0.9482776805810331,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 61,
+    "texte_brut": "La grant ioie q̃ iai au cuer",
+    "texte_normalise": "La grant joie que jai au cuer",
+    "ambiguites": [],
+    "confidence_htr": 0.9674334815223866,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 62,
+    "texte_brut": "lessiez le ꝯter tout ades",
+    "texte_normalise": "lessiez le conter tout ades",
+    "ambiguites": [],
+    "confidence_htr": 0.9886167064635997,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 63,
+    "texte_brut": "e stes uꝰ fille de masuer",
+    "texte_normalise": "e stes uꝰ fille de masuer",
+    "ambiguites": [],
+    "confidence_htr": 0.9224618938061475,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 64,
+    "texte_brut": "lessiez le ꝯter tout en pes",
+    "texte_normalise": "lessiez le conter tout en pes",
+    "ambiguites": [],
+    "confidence_htr": 0.9653422255541169,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 65,
+    "texte_brut": "o il sire de dame tiece",
+    "texte_normalise": "o il sire de dame tiece",
+    "ambiguites": [],
+    "confidence_htr": 0.8409294752266488,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 66,
+    "texte_brut": "qͥl ne me puet eschaper mes",
+    "texte_normalise": "qͥl ne me puet eschaper mes",
+    "ambiguites": [],
+    "confidence_htr": 0.9842170125073455,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 67,
+    "texte_brut": "M l̾t ai este por uꝰ grãt piece",
+    "texte_normalise": "M l̾t ai este por uꝰ grant piece",
+    "ambiguites": [
+      "tilde verticale U+033E : troncation non résolue automatiquement"
+    ],
+    "confidence_htr": 0.949242238021459,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 68,
+    "texte_brut": "⁊ oy les .u. ie les uous doi",
+    "texte_normalise": "et oy les .u. je les vous doi",
+    "ambiguites": [],
+    "confidence_htr": 0.8994038920237674,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 69,
+    "texte_brut": "fet li uilains sanz auoir au",
+    "texte_normalise": "fet li uilains sanz avoir au",
+    "ambiguites": [],
+    "confidence_htr": 0.9893861589163748,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 70,
+    "texte_brut": "I es iex me creuez ie lotroi",
+    "texte_normalise": "I es jex me crevez je lotroi",
+    "ambiguites": [],
+    "confidence_htr": 0.9523413674201069,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 71,
+    "texte_brut": "estroitem̃t lacole ⁊ baise",
+    "texte_normalise": "estroitem̃t lacole et baise",
+    "ambiguites": [],
+    "confidence_htr": 0.9242723592470037,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 72,
+    "texte_brut": "Se il en est a dire uns seus",
+    "texte_normalise": "Se il en est a dire uns seus",
+    "ambiguites": [],
+    "confidence_htr": 0.9633972582336358,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 73,
+    "texte_brut": "ainsi aus .ii. mainent grãt ioie",
+    "texte_normalise": "ainsi aus .ii. mainent grant joie",
+    "ambiguites": [],
+    "confidence_htr": 0.9432149790295253,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 74,
+    "texte_brut": "m es autrem̃t ira li geus",
+    "texte_normalise": "m es autrem̃t ira li geus",
+    "ambiguites": [],
+    "confidence_htr": 0.8924528554713499,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 75,
+    "texte_brut": "⁊ .ii. houliers en mi la uoie",
+    "texte_normalise": "et .ii. houliers en mi la voie",
+    "ambiguites": [],
+    "confidence_htr": 0.9642858799677497,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 76,
+    "texte_brut": "q̃ le ne cuide ce me sãble",
+    "texte_normalise": "que le ne cuide ce me samble",
+    "ambiguites": [],
+    "confidence_htr": 0.9508927621672396,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 77,
+    "texte_brut": "issirent fors de la meson",
+    "texte_normalise": "issirent fors de la meson",
+    "ambiguites": [],
+    "confidence_htr": 0.9387046115088297,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 78,
+    "texte_brut": "q̃ li uilains ꝯte ⁊ assãble",
+    "texte_normalise": "que li uilains conte et assamble",
+    "ambiguites": [],
+    "confidence_htr": 0.9740937332523683,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 79,
+    "texte_brut": "font li houlier icist preudõ",
+    "texte_normalise": "font li houlier icist preudon",
+    "ambiguites": [],
+    "confidence_htr": 0.9598283904415666,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 80,
+    "texte_brut": ".xii. d̾. sanz plus quil a",
+    "texte_normalise": ".xii. d̾. sanz plus quil a",
+    "ambiguites": [
+      "tilde verticale U+033E : troncation non résolue automatiquement"
+    ],
+    "confidence_htr": 0.9855761887985649,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 81,
+    "texte_brut": "e st il or nez de uostre uile",
+    "texte_normalise": "e st il or nez de vostre uile",
+    "ambiguites": [],
+    "confidence_htr": 0.9662141750678671,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 82,
+    "texte_brut": "tãt ua contant ⁊ ca ⁊ la",
+    "texte_normalise": "tant va contant et ca et la",
+    "ambiguites": [],
+    "confidence_htr": 0.9354934660070809,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 83,
+    "texte_brut": "u oir cest mon oncle dist mabile",
+    "texte_normalise": "u oir cest mon oncle dist mabile",
+    "ambiguites": [],
+    "confidence_htr": 0.9339710406821111,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 84,
+    "texte_brut": "qͥl dist or est .xx.u. foiz",
+    "texte_normalise": "qͥl dist or est .xx.u. foiz",
+    "ambiguites": [],
+    "confidence_htr": 0.9373551895029645,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 85,
+    "texte_brut": "Dont uꝰ auoie tant bĩe dit",
+    "texte_normalise": "Dont uꝰ avoie tant bine dit",
+    "ambiguites": [],
+    "confidence_htr": 0.8997282272662037,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 86,
+    "texte_brut": "des ore mes est il bĩe droy",
+    "texte_normalise": "des ore mes est il bine droy",
+    "ambiguites": [],
+    "confidence_htr": 0.9019273979431023,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 87,
+    "texte_brut": "u ers aus se retorne .i. petit",
+    "texte_normalise": "u ers aus se retorne .i. petit",
+    "ambiguites": [],
+    "confidence_htr": 0.955928072828771,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 88,
+    "texte_brut": "q̃ ie les gart ce sera sens",
+    "texte_normalise": "que je les gart ce sera sens",
+    "ambiguites": [],
+    "confidence_htr": 0.9756643521322352,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 89,
+    "texte_brut": "⁊ tret la langue ⁊ tuert la ioe",
+    "texte_normalise": "et tret la langue et tuert la joe",
+    "ambiguites": [],
+    "confidence_htr": 0.9683729456453711,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 90,
+    "texte_brut": "mes dune chose me porpens",
+    "texte_normalise": "mes dune chose me porpens",
+    "ambiguites": [],
+    "confidence_htr": 0.9130549817073121,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 91,
+    "texte_brut": "⁊ li houlier refont la moe",
+    "texte_normalise": "et li houlier refont la moe",
+    "ambiguites": [],
+    "confidence_htr": 0.9216783363658823,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 92,
+    "texte_brut": "sor eusse ma douce niece",
+    "texte_normalise": "sor eusse ma douce niece",
+    "ambiguites": [],
+    "confidence_htr": 0.8757288710073468,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 93,
+    "texte_brut": "est il dõc uostre oncle. oil uoi",
+    "texte_normalise": "est il donc vostre oncle. oil voi",
+    "ambiguites": [],
+    "confidence_htr": 0.9261918761940523,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 94,
+    "texte_brut": "qͥ fu fille de ma suer tiece",
+    "texte_normalise": "qͥ fu fille de ma suer tiece",
+    "ambiguites": [],
+    "confidence_htr": 0.8657376233659626,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 95,
+    "texte_brut": "G rãt honor i poez auoir",
+    "texte_normalise": "G rant honor i poez avoir",
+    "ambiguites": [],
+    "confidence_htr": 0.985582331253976,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 96,
+    "texte_brut": "dame fust or de mon auoir",
+    "texte_normalise": "dame fust or de mon avoir",
+    "ambiguites": [],
+    "confidence_htr": 0.9697570214206386,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 97,
+    "texte_brut": "⁊ il en uꝰ sanz nul redout",
+    "texte_normalise": "et il en uꝰ sanz nul redout",
+    "ambiguites": [],
+    "confidence_htr": 0.9880191537386355,
+    "needs_review_htr": false,
+    "a_relire": false
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 98,
+    "texte_brut": "el sen ala ꝑ fol sauoir",
+    "texte_normalise": "el sen ala par fol savoir",
+    "ambiguites": [
+      "'ꝑ' → 'par' (par/per/pro : 'par' par défaut, majoritaire dans ce corpus)"
+    ],
+    "confidence_htr": 0.9951532837368204,
+    "needs_review_htr": false,
+    "a_relire": true
+  },
+  {
+    "document_id": "btv1b55013464t_f143",
+    "zone_id": 99,
+    "texte_brut": "⁊ uꝰ preudom du tout en tout",
+    "texte_normalise": "et uꝰ preudom du tout en tout",
+    "ambiguites": [],
+    "confidence_htr": 0.988852978196358,
+    "needs_review_htr": false,
+    "a_relire": false
+  }
+]

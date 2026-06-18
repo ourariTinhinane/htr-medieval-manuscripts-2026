@@ -1,0 +1,1459 @@
+-DOCSTART- -X- O O
+
+n	NOUN	_	O
+e	SYM	_	O
+metre	NOUN	_	O
+en	ADP	_	O
+lieu	NOUN	_	O
+ou	CCONJ	_	O
+il	PRON	_	O
+me	PRON	_	O
+voie	VERB	_	O
+
+et	CCONJ	_	O
+si	SCONJ	_	O
+me	PRON	_	O
+sui	VERB	_	O
+mors	NOUN	_	O
+a	VERB	_	O
+mes	DET	_	O
+mains	NOUN	_	O
+
+a	ADP	_	O
+mon	DET	_	O
+pere	NOUN	_	O
+ce	PRON	_	O
+est	AUX	_	O
+du	DET	_	O
+mains	NOUN	_	O
+
+Trop	ADV	_	O
+sui	ADV	_	O
+mesfez	VERB	_	O
+mes	DET	_	O
+toute	ADJ	_	O
+voie	NOUN	_	O
+
+Nose	NOUN	_	O
+roie	NOUN	_	O
+je	PRON	_	O
+reperier	VERB	_	O
+
+e	X	_	O
+stuet	NOUN	_	O
+que	SCONJ	_	O
+devant	ADP	_	O
+lui	PRON	_	O
+mapere	X	_	O
+
+Aillors	PROPN	_	O
+me	PRON	_	O
+couient	VERB	_	O
+a	ADP	_	O
+airier	VERB	_	O
+
+Ie	PROPN	_	O
+sui	VERB	_	O
+ses	DET	_	O
+filz	NOUN	_	O
+il	PRON	_	O
+est	AUX	_	O
+mes	DET	_	O
+pere	NOUN	_	O
+
+Si	SCONJ	_	O
+ne	ADV	_	O
+sai	VERB	_	O
+ou	CCONJ	_	O
+ne	ADV	_	O
+de	ADP	_	O
+quel	DET	_	O
+part	NOUN	_	O
+
+m	NOUN	_	O
+es	AUX	_	O
+trop	ADV	_	O
+desdaignai	VERB	_	O
+son	DET	_	O
+seruice	NOUN	_	O
+
+sai	X	_	O
+tel	ADJ	_	O
+faín	X	_	O
+que	INTJ	_	O
+li	X	_	O
+cuers	X	_	O
+me	PRON	_	O
+part	VERB	_	O
+
+Il	PRON	_	O
+me	PRON	_	O
+voit	VERB	_	O
+si	SCONJ	_	O
+ne	ADV	_	O
+me	PRON	_	O
+rauise	VERB	_	O
+
+Bine	PROPN	_	O
+moublie	X	_	O
+diex	X	_	O
+et	CCONJ	_	O
+adosse	NOUN	_	O
+
+Por	PROPN	_	O
+ce	DET	_	O
+conques	NOUN	_	O
+mes	DET	_	O
+ne	ADV	_	O
+me	PRON	_	O
+uit	VERB	_	O
+
+O	X	_	O
+n	X	_	O
+deus	X	_	O
+dras	X	_	O
+ne	ADV	_	O
+en	ADP	_	O
+tel	ADJ	_	O
+abit	NOUN	_	O
+
+Ne	ADV	_	O
+sai	VERB	_	O
+se	PRON	_	O
+de	ADP	_	O
+ces	DET	_	O
+pois	NOUN	_	O
+en	ADP	_	O
+cosse	NOUN	_	O
+
+Ce	DET	_	O
+me	PRON	_	O
+fet	NOUN	_	O
+honteus	ADJ	_	O
+et	CCONJ	_	O
+covart	NOUN	_	O
+
+que	SCONJ	_	O
+je	PRON	_	O
+voi	VERB	_	O
+a	VERB	_	O
+ces	DET	_	O
+pors	NOUN	_	O
+fouler	VERB	_	O
+
+et	CCONJ	_	O
+que	SCONJ	_	O
+me	PRON	_	O
+valent	VERB	_	O
+si	SCONJ	_	O
+regart	INTJ	_	O
+
+Me	NOUN	_	O
+porroie	NOUN	_	O
+ja	ADP	_	O
+saouler	VERB	_	O
+
+et	CCONJ	_	O
+ma	DET	_	O
+grant	NOUN	_	O
+famine	NOUN	_	O
+abessier	ADJ	_	O
+
+q	INTJ	_	O
+vant	NOUN	_	O
+il	PRON	_	O
+ne	ADV	_	O
+me	PRON	_	O
+puet	VERB	_	O
+rententie	ADJ	_	O
+
+r	NOUN	_	O
+ompre	NOUN	_	O
+me	PRON	_	O
+couient	VERB	_	O
+et	CCONJ	_	O
+parcier	NOUN	_	O
+
+Il	PRON	_	O
+ni	CCONJ	_	O
+a	VERB	_	O
+fors	X	_	O
+de	ADP	_	O
+lessaier	NOUN	_	O
+
+n	NOUN	_	O
+est	AUX	_	O
+pas	ADV	_	O
+droiz	X	_	O
+que	SCONJ	_	O
+morir	X	_	O
+me	PRON	_	O
+lesse	VERB	_	O
+
+c	PRON	_	O
+este	AUX	_	O
+grant	NOUN	_	O
+honte	NOUN	_	O
+et	CCONJ	_	O
+ceste	INTJ	_	O
+angoisse	NOUN	_	O
+
+et	CCONJ	_	O
+fere	INTJ	_	O
+tant	ADV	_	O
+qͥl	PRON	_	O
+me	PRON	_	O
+connoisse	VERB	_	O
+
+diex	X	_	O
+nouiaus	X	_	O
+pois	NOUN	_	O
+ou	CCONJ	_	O
+an	X	_	O
+men	X	_	O
+cresse	X	_	O
+
+i	X	_	O
+ames	X	_	O
+ne	ADV	_	O
+li	X	_	O
+serai	AUX	_	O
+eschis	X	_	O
+
+a	X	_	O
+usi	INTJ	_	O
+me	PRON	_	O
+truevent	VERB	_	O
+il	PRON	_	O
+ml̾t	X	_	O
+maigre	ADJ	_	O
+
+B	X	_	O
+jaus	X	_	O
+pere	X	_	O
+des	X	_	O
+filz	X	_	O
+li	X	_	O
+chetis	X	_	O
+
+diex	NOUN	_	O
+comme	SCONJ	_	O
+il	PRON	_	O
+st̃	X	_	O
+amer	ADJ	_	O
+et	CCONJ	_	O
+aigre	ADJ	_	O
+
+q	X	_	O
+ͥ	X	_	O
+folement	NOUN	_	O
+parti	NOUN	_	O
+de	ADP	_	O
+toi	PRON	_	O
+
+i	INTJ	_	O
+en	PRON	_	O
+ferai	VERB	_	O
+je	PRON	_	O
+cuit	VERB	_	O
+poi	X	_	O
+dessart	NOUN	_	O
+
+ne	ADV	_	O
+ne	ADV	_	O
+vout	VERB	_	O
+croire	VERB	_	O
+ton	DET	_	O
+chastoi	NOUN	_	O
+
+Il	PRON	_	O
+vousissent	VERB	_	O
+ml̃t	X	_	O
+miex	X	_	O
+au	DET	_	O
+lart	NOUN	_	O
+
+Sil	PROPN	_	O
+fussent	VERB	_	O
+bien	ADV	_	O
+pile	NOUN	_	O
+et	CCONJ	_	O
+cuit	NOUN	_	O
+
+n	X	_	O
+e	X	_	O
+ta	DET	_	O
+volente	X	_	O
+otroier	X	_	O
+
+Ie	X	_	O
+me	PRON	_	O
+morrai	X	_	O
+de	ADP	_	O
+faim	NOUN	_	O
+je	PRON	_	O
+cuit	VERB	_	O
+
+te	PRON	_	O
+uient	VERB	_	O
+ici	ADV	_	O
+merci	INTJ	_	O
+proier	ADV	_	O
+
+toz	X	_	O
+repentanz	X	_	O
+de	ADP	_	O
+ses	DET	_	O
+mesfez	NOUN	_	O
+
+G	X	_	O
+rant	X	_	O
+mestier	X	_	O
+ai	X	_	O
+que	X	_	O
+diex	X	_	O
+mavoit	X	_	O
+
+f	NOUN	_	O
+ilz	X	_	O
+lieve	X	_	O
+sus	X	_	O
+trop	ADV	_	O
+des	DET	_	O
+miestez	X	_	O
+
+et	CCONJ	_	O
+tes	DET	_	O
+se	PRON	_	O
+mon	DET	_	O
+pere	NOUN	_	O
+savoit	VERB	_	O
+
+qͥ	INTJ	_	O
+ci	INTJ	_	O
+te	PRON	_	O
+mes	DET	_	O
+agenillons	NOUN	_	O
+
+Le	DET	_	O
+faim	NOUN	_	O
+que	PRON	_	O
+je	PRON	_	O
+sueffre	VERB	_	O
+ca	PRON	_	O
+fuer	VERB	_	O
+
+di	ADP	_	O
+moi	PRON	_	O
+de	ADP	_	O
+qoi	INTJ	_	O
+est	AUX	_	O
+la	DET	_	O
+resons	NOUN	_	O
+
+G	X	_	O
+rant	X	_	O
+pitie	X	_	O
+len	X	_	O
+prendioit	VERB	_	O
+au	ADP	_	O
+cuer	NOUN	_	O
+
+et	CCONJ	_	O
+me	PRON	_	O
+voudroit	VERB	_	O
+veoir	VERB	_	O
+aus	X	_	O
+jex	X	_	O
+
+por	X	_	O
+qoi	INTJ	_	O
+tu	PRON	_	O
+me	PRON	_	O
+requiers	VERB	_	O
+m̾ci	X	_	O
+
+le	DET	_	O
+raler	NOUN	_	O
+me	PRON	_	O
+seroit	VERB	_	O
+du	DET	_	O
+mier	NOUN	_	O
+
+h	X	_	O
+ai	X	_	O
+biaus	X	_	O
+doiz	X	_	O
+pere	INTJ	_	O
+veez	INTJ	_	O
+ci	INTJ	_	O
+
+et	CCONJ	_	O
+puis	CCONJ	_	O
+que	SCONJ	_	O
+raler	INTJ	_	O
+men	INTJ	_	O
+estuet	X	_	O
+
+Uo	PROPN	_	O
+fil	NOUN	_	O
+cortois	X	_	O
+leschetive	X	_	O
+
+par	ADP	_	O
+dieu	NOUN	_	O
+or	NOUN	_	O
+en	PRON	_	O
+soit	AUX	_	O
+questre	ADJ	_	O
+puet	X	_	O
+
+qͥ	X	_	O
+tant	ADV	_	O
+a	X	_	O
+vers	ADP	_	O
+uꝰ	X	_	O
+meserre	NOUN	_	O
+
+quer	INTJ	_	O
+aincois	ADJ	_	O
+que	SCONJ	_	O
+je	PRON	_	O
+nuire	VERB	_	O
+a	ADP	_	O
+
+et	CCONJ	_	O
+ouvre	VERB	_	O
+sus	X	_	O
+vostre	X	_	O
+defois	NOUN	_	O
+
+biaus	X	_	O
+douz	X	_	O
+filz	NOUN	_	O
+par	ADP	_	O
+.	PUNCT	_	O
+c.	NOUN	_	O
+mile	ADJ	_	O
+fois	NOUN	_	O
+
+requerai	INTJ	_	O
+mon	DET	_	O
+pere	NOUN	_	O
+m̾ci	X	_	O
+
+b	X	_	O
+ée	INTJ	_	O
+saí	X	_	O
+vers	ADP	_	O
+mon	DET	_	O
+pais	NOUN	_	O
+la	DET	_	O
+voie	NOUN	_	O
+
+Soies	NOUN	_	O
+tu	PRON	_	O
+li	X	_	O
+tres	X	_	O
+bien	INTJ	_	O
+venuz	X	_	O
+
+mes	DET	_	O
+je	PRON	_	O
+cuit	VERB	_	O
+que	SCONJ	_	O
+enuis	NOUN	_	O
+me	PRON	_	O
+voie	VERB	_	O
+
+affuble	VERB	_	O
+toi	PRON	_	O
+que	SCONJ	_	O
+trop	ADV	_	O
+es	AUX	_	O
+nus	ADJ	_	O
+
+Mon	DET	_	O
+pere	NOUN	_	O
+et	CCONJ	_	O
+du	DET	_	O
+sien	NOUN	_	O
+poi	X	_	O
+me	X	_	O
+doinst	X	_	O
+
+I	PROPN	_	O
+ames	X	_	O
+ne	ADV	_	O
+te	PRON	_	O
+reconneusse	VERB	_	O
+
+biaus	X	_	O
+filz	X	_	O
+se	PRON	_	O
+je	PRON	_	O
+des	DET	_	O
+jes	X	_	O
+ser	X	_	O
+seusse	INTJ	_	O
+
+quant	ADV	_	O
+me	PRON	_	O
+u̾ra	VERB	_	O
+en	ADP	_	O
+si	SCONJ	_	O
+uil	INTJ	_	O
+point	NOUN	_	O
+
+b	X	_	O
+ine	NOUN	_	O
+sui	X	_	O
+venuz	VERB	_	O
+du	DET	_	O
+mont	NOUN	_	O
+ou	CCONJ	_	O
+val	NOUN	_	O
+
+que	SCONJ	_	O
+tu	PRON	_	O
+venisses	VERB	_	O
+en	ADP	_	O
+tel	ADJ	_	O
+guise	NOUN	_	O
+
+M	NOUN	_	O
+es	AUX	_	O
+se	PRON	_	O
+je	PRON	_	O
+ralaisse	VERB	_	O
+a	ADP	_	O
+cheval	NOUN	_	O
+
+Ie	PROPN	_	O
+teusse	VERB	_	O
+autre	ADJ	_	O
+robe	NOUN	_	O
+quise	ADJ	_	O
+
+B	X	_	O
+i᷑	X	_	O
+vestuz	X	_	O
+dune	X	_	O
+robe	NOUN	_	O
+vaire	NOUN	_	O
+
+Tou	PROPN	_	O
+mesfet	X	_	O
+ne	ADV	_	O
+pris	VERB	_	O
+une	DET	_	O
+nois	NOUN	_	O
+
+I	PROPN	_	O
+eusse	VERB	_	O
+assez	ADV	_	O
+meillor	X	_	O
+repaire	NOUN	_	O
+
+des	DET	_	O
+puis	CCONJ	_	O
+que	SCONJ	_	O
+tu	PRON	_	O
+de	ADP	_	O
+reconnois	NOUN	_	O
+
+et	CCONJ	_	O
+que	SCONJ	_	O
+tu	PRON	_	O
+as	VERB	_	O
+le	DET	_	O
+mal	NOUN	_	O
+lessie	ADJ	_	O
+
+M	X	_	O
+es	X	_	O
+or	X	_	O
+ni	CCONJ	_	O
+aura	VERB	_	O
+point	NOUN	_	O
+de	ADP	_	O
+feste	NOUN	_	O
+
+q	X	_	O
+ͣ	X	_	O
+mon	DET	_	O
+frere	NOUN	_	O
+est	AUX	_	O
+si	SCONJ	_	O
+pute	NOUN	_	O
+beste	NOUN	_	O
+
+Mon	DET	_	O
+veel	NOUN	_	O
+le	DET	_	O
+miex	NOUN	_	O
+en	ADP	_	O
+crestie	NOUN	_	O
+
+que	SCONJ	_	O
+il	PRON	_	O
+maura	X	_	O
+tost	X	_	O
+reprove	X	_	O
+
+tuerons	INTJ	_	O
+por	X	_	O
+ta	DET	_	O
+bien	NOUN	_	O
+venue	VERB	_	O
+
+que	PRON	_	O
+jaurai	VERB	_	O
+le	DET	_	O
+ch̾	X	_	O
+tens	X	_	O
+trove	X	_	O
+
+d	ADP	_	O
+ont	VERB	_	O
+nostre	X	_	O
+cort	NOUN	_	O
+sera	AUX	_	O
+tenue	VERB	_	O
+
+m	INTJ	_	O
+es	AUX	_	O
+se	PRON	_	O
+mon	DET	_	O
+frere	NOUN	_	O
+est	AUX	_	O
+de	ADP	_	O
+putain	NOUN	_	O
+
+ca	X	_	O
+dedenz	X	_	O
+en	ADP	_	O
+nostre	NOUN	_	O
+manage	NOUN	_	O
+
+M	X	_	O
+es	X	_	O
+peres	X	_	O
+est	AUX	_	O
+plus	ADV	_	O
+debonaire	ADJ	_	O
+
+et	CCONJ	_	O
+manderons	INTJ	_	O
+nostre	X	_	O
+uisnage	NOUN	_	O
+
+et	CCONJ	_	O
+miex	INTJ	_	O
+set	NOUN	_	O
+entendre	VERB	_	O
+reson	NOUN	_	O
+
+tu	PRON	_	O
+as	AUX	_	O
+ore	ADV	_	O
+eu	VERB	_	O
+mal	NOUN	_	O
+assez	ADV	_	O
+
+h	NOUN	_	O
+e	X	_	O
+diex	X	_	O
+je	PRON	_	O
+voi	VERB	_	O
+nostre	X	_	O
+meson	X	_	O
+
+tant	ADV	_	O
+que	SCONJ	_	O
+tu	PRON	_	O
+soies	VERB	_	O
+respassez	VERB	_	O
+
+L	DET	_	O
+es	DET	_	O
+fenestres	NOUN	_	O
+et	CCONJ	_	O
+les	DET	_	O
+aruols	NOUN	_	O
+
+estuet	NOUN	_	O
+con	X	_	O
+te	X	_	O
+baigne	X	_	O
+et	CCONJ	_	O
+dangiere	NOUN	_	O
+
+dont	PRON	_	O
+je	PRON	_	O
+me	PRON	_	O
+pardi	VERB	_	O
+comme	ADP	_	O
+fols	NOUN	_	O
+
+Hez	INTJ	_	O
+avant	ADP	_	O
+je	PRON	_	O
+uieng	X	_	O
+a	X	_	O
+prangiere	X	_	O
+
+Mon	DET	_	O
+pere	NOUN	_	O
+voi	VERB	_	O
+dedenz	X	_	O
+seoir	VERB	_	O
+
+M	X	_	O
+l̾t	X	_	O
+est	AUX	_	O
+ore	X	_	O
+esmus	X	_	O
+cis	X	_	O
+osteus	X	_	O
+
+M	INTJ	_	O
+es	VERB	_	O
+je	PRON	_	O
+ne	ADV	_	O
+loserai	VERB	_	O
+veoir	VERB	_	O
+
+qͥ	X	_	O
+est	AUX	_	O
+or	X	_	O
+cis	X	_	O
+nouiaus	X	_	O
+piteus	X	_	O
+
+h	NOUN	_	O
+ors	NOUN	_	O
+du	DET	_	O
+pais	NOUN	_	O
+en	ADP	_	O
+autre	ADJ	_	O
+terre	NOUN	_	O
+
+.xx.	NOUN	_	O
+ẜ.	SYM	_	O
+et	CCONJ	_	O
+.xxxix.	PUNCT	_	O
+
+et	CCONJ	_	O
+je	PRON	_	O
+lai	X	_	O
+fete	X	_	O
+maint	X	_	O
+jor	X	_	O
+querre	X	_	O
+
+I	NUM	_	O
+tant	ADV	_	O
+furent	AUX	_	O
+vendu	VERB	_	O
+mi	X	_	O
+buef	NOUN	_	O
+
+en	ADP	_	O
+maint	NOUN	_	O
+pais	NOUN	_	O
+en	ADP	_	O
+mainte	ADJ	_	O
+uile	NOUN	_	O
+
+diex	PROPN	_	O
+cor	NOUN	_	O
+ne	ADV	_	O
+sai	VERB	_	O
+que	SCONJ	_	O
+tout	ADJ	_	O
+ce	DET	_	O
+monte	NOUN	_	O
+
+ahi	INTJ	_	O
+douce	ADJ	_	O
+niece	NOUN	_	O
+mabile	ADJ	_	B-PER
+
+Si	SCONJ	_	O
+meisse	X	_	O
+tout	ADV	_	O
+en	ADP	_	O
+.i.	X	_	O
+conte	NOUN	_	O
+
+tant	ADV	_	O
+estuiez	VERB	_	O
+de	ADP	_	O
+bon	ADJ	_	O
+lignage	NOUN	_	O
+
+Ie	PROPN	_	O
+ne	ADV	_	O
+le	PRON	_	O
+sauroie	VERB	_	O
+sommer	VERB	_	O
+
+qͥ	X	_	O
+me	PRON	_	O
+deuroit	VERB	_	O
+tout	PRON	_	O
+assommer	VERB	_	O
+
+D	PROPN	_	O
+ont	VERB	_	O
+uꝰ	X	_	O
+uint	X	_	O
+ore	X	_	O
+cel	X	_	O
+corage	X	_	O
+
+ne	ADV	_	O
+le	PRON	_	O
+sauroie	VERB	_	O
+je	PRON	_	O
+des	DET	_	O
+mois	NOUN	_	O
+
+or	NOUN	_	O
+st̾	X	_	O
+tuit	INTJ	_	O
+troi	INTJ	_	O
+mort	NOUN	_	O
+mi	X	_	O
+enfant	NOUN	_	O
+
+Se	PRON	_	O
+navoie	VERB	_	O
+feves	NOUN	_	O
+ou	CCONJ	_	O
+pois	NOUN	_	O
+
+et	CCONJ	_	O
+ma	DET	_	O
+fame	NOUN	_	O
+dame	NOUN	_	B-TITLE
+si	SCONJ	_	O
+ertant	ADV	_	O
+
+que	SCONJ	_	O
+chascons	X	_	O
+pois	NOUN	_	O
+feist	X	_	O
+.i.	X	_	O
+sout	X	_	O
+
+I	X	_	O
+ames	X	_	O
+en	ADP	_	O
+mon	DET	_	O
+cuer	NOUN	_	O
+naurai	VERB	_	O
+joie	NOUN	_	O
+
+ainsi	ADV	_	O
+le	DET	_	O
+sauroie	NOUN	_	O
+je	PRON	_	O
+tout	PRON	_	O
+
+devant	ADP	_	O
+cele	PRON	_	O
+eure	NOUN	_	O
+que	SCONJ	_	O
+je	PRON	_	O
+voie	VERB	_	O
+
+et	CCONJ	_	O
+ne	ADV	_	O
+porquant	VERB	_	O
+me	PRON	_	O
+dist	VERB	_	O
+sirous	X	_	O
+
+m	X	_	O
+a	X	_	O
+douce	ADJ	_	O
+níece	X	_	O
+en	ADP	_	O
+aucun	DET	_	O
+tans	NOUN	_	O
+
+que	SCONJ	_	O
+joi	INTJ	_	O
+des	DET	_	O
+bues	NOUN	_	O
+.i.	PUNCT	_	O
+ẜ.	X	_	O
+
+Lors	ADV	_	O
+me	PRON	_	O
+rendisse	VERB	_	O
+moines	NOUN	_	O
+blans	ADJ	_	O
+
+qui	PRON	_	O
+les	PRON	_	O
+conta	VERB	_	O
+si	SCONJ	_	O
+les	DET	_	O
+recut	NOUN	_	O
+
+dame	NOUN	_	B-TITLE
+fust	X	_	O
+oi	INTJ	_	O
+de	ADP	_	O
+mon	PRON	_	O
+avoir	VERB	_	O
+
+M	X	_	O
+es	X	_	O
+je	PRON	_	O
+ne	ADV	_	O
+sai	VERB	_	O
+sil	X	_	O
+men	X	_	O
+decut	X	_	O
+
+riche	ADJ	_	O
+mari	NOUN	_	O
+peust	VERB	_	O
+avoir	VERB	_	O
+
+ainsi	ADV	_	O
+la	DET	_	O
+plaint	NOUN	_	O
+ainsi	ADV	_	O
+la	DET	_	O
+plevere	NOUN	_	O
+
+ne	ADV	_	O
+sil	INTJ	_	O
+men	X	_	O
+a	VERB	_	O
+neant	INTJ	_	O
+emble	INTJ	_	O
+
+quentre	VERB	_	O
+.ii.	X	_	O
+sesfiere	NOUN	_	O
+de	ADP	_	O
+ble	NOUN	_	O
+
+et	CCONJ	_	O
+mabile	NOUN	_	B-PER
+saut	NOUN	_	O
+en	ADP	_	O
+cele	NOUN	_	O
+eure	NOUN	_	O
+
+et	CCONJ	_	O
+ma	DET	_	O
+jum̃t	NOUN	_	O
+et	CCONJ	_	O
+mes	DET	_	O
+porciaus	NOUN	_	O
+
+Lez	PROPN	_	O
+lui	PRON	_	O
+sassist	VERB	_	O
+et	CCONJ	_	O
+dist	VERB	_	O
+preudon	NOUN	_	O
+
+et	CCONJ	_	O
+la	DET	_	O
+laine	NOUN	_	O
+de	ADP	_	O
+mes	DET	_	O
+aigniaus	NOUN	_	O
+
+dont	PRON	_	O
+estes	VERB	_	O
+uꝰ.	X	_	O
+et	CCONJ	_	O
+vostre	X	_	O
+non	ADV	_	O
+
+Ie	PROPN	_	O
+ai	VERB	_	O
+non	ADV	_	O
+fouch̾	NOUN	_	B-PER
+de	ADP	_	O
+la	DET	_	O
+bouce	NOUN	_	O
+
+Me	PRON	_	O
+rendirent	VERB	_	O
+tout	ADV	_	O
+autrestant	ADJ	_	O
+
+mes	DET	_	O
+uꝰ	NOUN	_	O
+samblez	VERB	_	O
+ma	DET	_	O
+niece	NOUN	_	O
+douce	ADJ	_	O
+
+.ii.	SYM	_	O
+foiz	INTJ	_	O
+.i.	PUNCT	_	O
+ce	PRON	_	O
+sont	AUX	_	O
+.	PUNCT	_	O
+cxxx	X	_	O
+
+ce	DET	_	O
+dist	X	_	O
+uns	PRON	_	O
+gars	NOUN	_	O
+qͥ	X	_	O
+fist	INTJ	_	O
+mon	DET	_	O
+conte	NOUN	_	O
+
+Plus	ADV	_	O
+que	SCONJ	_	O
+nule	X	_	O
+fame	X	_	O
+qͥ	X	_	O
+fust	X	_	O
+
+cele	INTJ	_	O
+se	PRON	_	O
+pasme	VERB	_	O
+sor	X	_	O
+le	DET	_	O
+fust	NOUN	_	O
+
+u	X	_	O
+lib	X	_	O
+dist	INTJ	_	O
+que	SCONJ	_	O
+tout	ADJ	_	O
+ce	DET	_	O
+monte	NOUN	_	O
+
+q	X	_	O
+vant	X	_	O
+se	X	_	O
+rediece	X	_	O
+si	X	_	O
+dist	X	_	O
+tant	ADV	_	O
+
+or	CCONJ	_	O
+ne	ADV	_	O
+le	DET	_	O
+rai	X	_	O
+por	X	_	O
+nule	INTJ	_	O
+paine	NOUN	_	O
+
+que	SCONJ	_	O
+ma	DET	_	O
+borse	NOUN	_	O
+quest	VERB	_	O
+toute	DET	_	O
+plaine	NOUN	_	O
+
+or	CCONJ	_	O
+ai	VERB	_	O
+je	PRON	_	O
+ce	PRON	_	O
+que	PRON	_	O
+je	PRON	_	O
+demant	VERB	_	O
+
+pꝰ	X	_	O
+si	SCONJ	_	O
+la	DET	_	O
+cole	NOUN	_	O
+et	CCONJ	_	O
+si	SCONJ	_	O
+lembiace	X	_	O
+
+ne	ADV	_	O
+soit	AUX	_	O
+uvidie	ADJ	_	O
+en	ADP	_	O
+mon	DET	_	O
+giron	NOUN	_	O
+
+et	CCONJ	_	O
+puis	CCONJ	_	O
+li	X	_	O
+best	X	_	O
+bouche	NOUN	_	O
+et	CCONJ	_	O
+face	NOUN	_	O
+
+et	CCONJ	_	O
+li	X	_	O
+houlier	X	_	O
+de	ADP	_	O
+la	DET	_	O
+meson	X	_	O
+
+dient	INTJ	_	O
+ca	X	_	O
+uien	X	_	O
+mabile	NOUN	_	B-PER
+escoute	NOUN	_	O
+
+que	SCONJ	_	O
+ja	X	_	O
+nen	X	_	O
+samble	INTJ	_	O
+estre	NOUN	_	O
+saoule	ADJ	_	O
+
+cil	X	_	O
+.	PUNCT	_	O
+d̾.	X	_	O
+st̾	X	_	O
+nostre	X	_	O
+sanz	X	_	O
+doute	NOUN	_	O
+
+et	CCONJ	_	O
+celui	PRON	_	O
+qͥ	X	_	O
+ml̾t	X	_	O
+sot	NOUN	_	O
+de	ADP	_	O
+boule	NOUN	_	O
+
+estraint	VERB	_	O
+les	DET	_	O
+denz	NOUN	_	O
+et	CCONJ	_	O
+puis	CCONJ	_	O
+souspire	VERB	_	O
+
+Se	PRON	_	O
+tu	PRON	_	O
+mes	DET	_	O
+ceenz	NOUN	_	O
+ce	DET	_	O
+uilain	NOUN	_	O
+
+Il	PRON	_	O
+ne	ADV	_	O
+st̾	VERB	_	O
+mie	NOUN	_	O
+a	VERB	_	O
+son	DET	_	O
+oes	NOUN	_	O
+sain	ADJ	_	O
+
+b	X	_	O
+ele	X	_	O
+niece	X	_	O
+ne	ADV	_	O
+uꝰ	X	_	O
+puis	CCONJ	_	O
+dire	VERB	_	O
+
+d	X	_	O
+ist	X	_	O
+mabile	X	_	B-PER
+lessiez	INTJ	_	O
+le	DET	_	O
+en	ADP	_	O
+pes	NOUN	_	O
+
+La	DET	_	O
+grant	ADJ	_	O
+joie	NOUN	_	O
+que	PRON	_	O
+jai	VERB	_	O
+au	DET	_	O
+cuer	NOUN	_	O
+
+lessiez	VERB	_	O
+le	PRON	_	O
+conter	VERB	_	O
+tout	ADV	_	O
+ades	NOUN	_	O
+
+e	X	_	O
+stes	X	_	O
+uꝰ	X	_	O
+fille	NOUN	_	O
+de	ADP	_	O
+masuer	VERB	_	O
+
+lessiez	VERB	_	O
+le	PRON	_	O
+conter	VERB	_	O
+tout	ADV	_	O
+en	ADP	_	O
+pes	NOUN	_	O
+
+o	X	_	O
+il	PRON	_	O
+sire	VERB	_	B-TITLE
+de	X	_	O
+dame	NOUN	_	B-TITLE
+tiece	X	_	B-PER
+
+qͥl	X	_	O
+ne	ADV	_	O
+me	PRON	_	O
+puet	X	_	O
+eschaper	X	_	O
+mes	DET	_	O
+
+M	X	_	O
+l̾t	X	_	O
+ai	X	_	O
+este	X	_	O
+por	X	_	O
+uꝰ	X	_	O
+grant	X	_	O
+piece	X	_	O
+
+et	CCONJ	_	O
+oy	INTJ	_	O
+les	DET	_	O
+.u.	PUNCT	_	O
+je	PRON	_	O
+les	PRON	_	O
+vous	PRON	_	O
+doi	VERB	_	O
+
+fet	X	_	O
+li	X	_	O
+uilains	X	_	O
+sanz	X	_	O
+avoir	VERB	_	O
+au	ADV	_	O
+
+I	X	_	O
+es	X	_	O
+jex	X	_	O
+me	X	_	O
+crevez	X	_	O
+je	X	_	O
+lotroi	X	_	O
+
+estroitem̃t	NOUN	_	O
+lacole	NOUN	_	O
+et	CCONJ	_	O
+baise	NOUN	_	O
+
+Se	SCONJ	_	O
+il	PRON	_	O
+en	PRON	_	O
+est	VERB	_	O
+a	ADP	_	O
+dire	VERB	_	O
+uns	PRON	_	O
+seus	NOUN	_	O
+
+ainsi	ADV	_	O
+aus	X	_	O
+.ii.	X	_	O
+mainent	VERB	_	O
+grant	NOUN	_	O
+joie	NOUN	_	O
+
+m	X	_	O
+es	X	_	O
+autrem̃t	X	_	O
+ira	X	_	O
+li	X	_	O
+geus	X	_	O
+
+et	CCONJ	_	O
+.ii.	X	_	O
+houliers	NOUN	_	O
+en	ADP	_	O
+mi	NOUN	_	O
+la	DET	_	O
+voie	NOUN	_	O
+
+que	SCONJ	_	O
+le	DET	_	O
+ne	ADV	_	O
+cuide	VERB	_	O
+ce	PRON	_	O
+me	PRON	_	O
+samble	VERB	_	O
+
+issirent	X	_	O
+fors	X	_	O
+de	X	_	O
+la	X	_	O
+meson	X	_	O
+
+que	SCONJ	_	O
+li	X	_	O
+uilains	NOUN	_	O
+conte	VERB	_	O
+et	CCONJ	_	O
+assamble	VERB	_	O
+
+font	VERB	_	O
+li	X	_	O
+houlier	X	_	O
+icist	X	_	O
+preudon	NOUN	_	O
+
+.xii.	SYM	_	O
+d̾.	X	_	O
+sanz	X	_	O
+plus	ADV	_	O
+quil	NOUN	_	O
+a	X	_	O
+
+e	X	_	O
+st	X	_	O
+il	X	_	O
+or	X	_	O
+nez	NOUN	_	O
+de	X	_	O
+vostre	X	_	O
+uile	X	_	O
+
+tant	ADV	_	O
+va	VERB	_	O
+contant	VERB	_	O
+et	CCONJ	_	O
+ca	PRON	_	O
+et	CCONJ	_	O
+la	DET	_	O
+
+u	INTJ	_	O
+oir	INTJ	_	O
+cest	INTJ	_	O
+mon	DET	_	O
+oncle	NOUN	_	O
+dist	X	_	O
+mabile	ADJ	_	B-PER
+
+qͥl	X	_	O
+dist	X	_	O
+or	X	_	O
+est	AUX	_	O
+.xx.u.	PUNCT	_	O
+foiz	NOUN	_	O
+
+Dont	PRON	_	O
+uꝰ	PRON	_	O
+avoie	VERB	_	O
+tant	ADV	_	O
+bine	NOUN	_	O
+dit	VERB	_	O
+
+des	DET	_	O
+ore	X	_	O
+mes	DET	_	O
+est	AUX	_	O
+il	PRON	_	O
+bine	X	_	O
+droy	X	_	O
+
+u	X	_	O
+ers	X	_	O
+aus	X	_	O
+se	PRON	_	O
+retorne	VERB	_	O
+.i.	X	_	O
+petit	ADJ	_	O
+
+que	SCONJ	_	O
+je	PRON	_	O
+les	PRON	_	O
+gart	VERB	_	O
+ce	PRON	_	O
+sera	AUX	_	O
+sens	NOUN	_	O
+
+et	CCONJ	_	O
+tret	INTJ	_	O
+la	DET	_	O
+langue	NOUN	_	O
+et	CCONJ	_	O
+tuert	VERB	_	O
+la	DET	_	O
+joe	NOUN	_	O
+
+mes	DET	_	O
+dune	NOUN	_	O
+chose	NOUN	_	O
+me	PRON	_	O
+porpens	VERB	_	O
+
+et	CCONJ	_	O
+li	X	_	O
+houlier	NOUN	_	O
+refont	VERB	_	O
+la	DET	_	O
+moe	NOUN	_	O
+
+sor	X	_	O
+eusse	X	_	O
+ma	DET	_	O
+douce	NOUN	_	O
+niece	NOUN	_	O
+
+est	AUX	_	O
+il	PRON	_	O
+donc	ADV	_	O
+vostre	X	_	O
+oncle.	X	_	O
+oil	X	_	O
+voi	X	_	O
+
+qͥ	X	_	O
+fu	X	_	O
+fille	NOUN	_	O
+de	ADP	_	O
+ma	DET	_	O
+suer	X	_	O
+tiece	X	_	B-PER
+
+G	X	_	O
+rant	X	_	O
+honor	X	_	O
+i	X	_	O
+poez	X	_	O
+avoir	VERB	_	O
+
+dame	NOUN	_	B-TITLE
+fust	X	_	O
+or	NOUN	_	O
+de	ADP	_	O
+mon	PRON	_	O
+avoir	VERB	_	O
+
+et	CCONJ	_	O
+il	PRON	_	O
+en	PRON	_	O
+uꝰ	X	_	O
+sanz	X	_	O
+nul	PRON	_	O
+redout	INTJ	_	O
+
+el	X	_	O
+sen	X	_	O
+ala	X	_	O
+par	ADP	_	O
+fol	NOUN	_	O
+savoir	VERB	_	O
+
+et	CCONJ	_	O
+uꝰ	X	_	O
+preudom	X	_	O
+du	DET	_	O
+tout	NOUN	_	O
+en	ADP	_	O
+tout	ADV	_	O
+

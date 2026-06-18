@@ -1,0 +1,3 @@
+SHA-256 du test set : 5be5886bfc1685b1c48ded3dfbcf75e3135fc55ae0edeee2fa3739c63d0d7047
+Nombre de lignes : 5580
+Date de création : 2026-06-14

@@ -1,0 +1,742 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <text>
+    <body>
+      <div type="acte">
+        <p>
+          <lb n="btv1b55013464t_f141_z0"/>
+          <w pos="NOUN" lemma="n">n</w>
+          <w pos="SYM" lemma="e">e</w>
+          <w pos="NOUN" lemma="metre">metre</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="NOUN" lemma="lieu">lieu</w>
+          <w pos="CCONJ" lemma="ou">ou</w>
+          <w pos="PRON" lemma="lui">il</w>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="VERB" lemma="voie">voie</w>
+          <lb n="btv1b55013464t_f141_z1"/>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="SCONJ" lemma="si">si</w>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="VERB" lemma="suivre">sui</w>
+          <w pos="NOUN" lemma="mors">mors</w>
+          <w pos="VERB" lemma="avoir">a</w>
+          <w pos="DET" lemma="son">mes</w>
+          <w pos="NOUN" lemma="main">mains</w>
+          <lb n="btv1b55013464t_f141_z2"/>
+          <w pos="ADP" lemma="a">a</w>
+          <w pos="DET" lemma="son">mon</w>
+          <w pos="NOUN" lemma="pere">pere</w>
+          <w pos="PRON" lemma="ce">ce</w>
+          <w pos="AUX" lemma="être">est</w>
+          <w pos="DET" lemma="du">du</w>
+          <w pos="NOUN" lemma="main">mains</w>
+          <lb n="btv1b55013464t_f141_z3"/>
+          <w pos="ADV" lemma="trop">Trop</w>
+          <w pos="ADV" lemma="sui">sui</w>
+          <w pos="VERB" lemma="mesfer">mesfez</w>
+          <w pos="DET" lemma="son">mes</w>
+          <w pos="ADJ" lemma="tout">toute</w>
+          <w pos="NOUN" lemma="voie">voie</w>
+          <lb n="btv1b55013464t_f141_z4"/>
+          <w pos="NOUN" lemma="nose">Nose</w>
+          <w pos="NOUN" lemma="roie">roie</w>
+          <w pos="PRON" lemma="moi">je</w>
+          <w pos="VERB" lemma="reperier">reperier</w>
+          <lb n="btv1b55013464t_f141_z5"/>
+          <w pos="X" lemma="e">e</w>
+          <w pos="NOUN" lemma="stuet">stuet</w>
+          <w pos="SCONJ" lemma="que">que</w>
+          <w pos="ADP" lemma="devant">devant</w>
+          <w pos="PRON" lemma="lui">lui</w>
+          <w pos="X" lemma="mapere">mapere</w>
+          <lb n="btv1b55013464t_f141_z6"/>
+          <w pos="PROPN" lemma="Aillors">Aillors</w>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="VERB" lemma="couer">couient</w>
+          <w pos="ADP" lemma="a">a</w>
+          <w pos="VERB" lemma="airier">airier</w>
+          <lb n="btv1b55013464t_f141_z7"/>
+          <w pos="PROPN" lemma="Ie">Ie</w>
+          <w pos="VERB" lemma="suivre">sui</w>
+          <w pos="DET" lemma="son">ses</w>
+          <w pos="NOUN" lemma="filz">filz</w>
+          <w pos="PRON" lemma="lui">il</w>
+          <w pos="AUX" lemma="être">est</w>
+          <w pos="DET" lemma="son">mes</w>
+          <w pos="NOUN" lemma="pere">pere</w>
+          <lb n="btv1b55013464t_f141_z8"/>
+          <w pos="SCONJ" lemma="si">Si</w>
+          <w pos="ADV" lemma="ne">ne</w>
+          <w pos="VERB" lemma="savoir">sai</w>
+          <w pos="CCONJ" lemma="ou">ou</w>
+          <w pos="ADV" lemma="ne">ne</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="DET" lemma="quel">quel</w>
+          <w pos="NOUN" lemma="part">part</w>
+          <lb n="btv1b55013464t_f141_z9"/>
+          <w pos="NOUN" lemma="mètre">m</w>
+          <w pos="AUX" lemma="être">es</w>
+          <w pos="ADV" lemma="trop">trop</w>
+          <w pos="VERB" lemma="desdaigner">desdaignai</w>
+          <w pos="DET" lemma="son">son</w>
+          <w pos="NOUN" lemma="seruice">seruice</w>
+          <lb n="btv1b55013464t_f141_z10"/>
+          <w pos="X" lemma="sai">sai</w>
+          <w pos="ADJ" lemma="tel">tel</w>
+          <w pos="X" lemma="faín">faín</w>
+          <w pos="INTJ" lemma="que">que</w>
+          <w pos="X" lemma="li">li</w>
+          <w pos="X" lemma="cuers">cuers</w>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="VERB" lemma="partir">part</w>
+          <lb n="btv1b55013464t_f141_z11"/>
+          <w pos="PRON" lemma="lui">Il</w>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="VERB" lemma="voir">voit</w>
+          <w pos="SCONJ" lemma="si">si</w>
+          <w pos="ADV" lemma="ne">ne</w>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="VERB" lemma="rauiser">rauise</w>
+          <lb n="btv1b55013464t_f141_z12"/>
+          <w pos="PROPN" lemma="Bine">Bine</w>
+          <w pos="X" lemma="moublie">moublie</w>
+          <w pos="X" lemma="diex">diex</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="NOUN" lemma="adosse">adosse</w>
+          <lb n="btv1b55013464t_f141_z13"/>
+          <w pos="PROPN" lemma="Por">Por</w>
+          <w pos="DET" lemma="ce">ce</w>
+          <w pos="NOUN" lemma="conque">conques</w>
+          <w pos="DET" lemma="son">mes</w>
+          <w pos="ADV" lemma="ne">ne</w>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="VERB" lemma="uaire">uit</w>
+          <lb n="btv1b55013464t_f141_z14"/>
+          <w pos="X" lemma="O">O</w>
+          <w pos="X" lemma="n">n</w>
+          <w pos="X" lemma="deus">deus</w>
+          <w pos="X" lemma="dras">dras</w>
+          <w pos="ADV" lemma="ne">ne</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="ADJ" lemma="tel">tel</w>
+          <w pos="NOUN" lemma="abit">abit</w>
+          <lb n="btv1b55013464t_f141_z15"/>
+          <w pos="ADV" lemma="ne">Ne</w>
+          <w pos="VERB" lemma="savoir">sai</w>
+          <w pos="PRON" lemma="soi">se</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="DET" lemma="ce">ces</w>
+          <w pos="NOUN" lemma="pois">pois</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="NOUN" lemma="cosse">cosse</w>
+          <lb n="btv1b55013464t_f141_z16"/>
+          <w pos="DET" lemma="ce">Ce</w>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="NOUN" lemma="fet">fet</w>
+          <w pos="ADJ" lemma="honteux">honteus</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="NOUN" lemma="covart">covart</w>
+          <lb n="btv1b55013464t_f141_z17"/>
+          <w pos="SCONJ" lemma="que">que</w>
+          <w pos="PRON" lemma="moi">je</w>
+          <w pos="VERB" lemma="voir">voi</w>
+          <w pos="VERB" lemma="avoir">a</w>
+          <w pos="DET" lemma="ce">ces</w>
+          <w pos="NOUN" lemma="pors">pors</w>
+          <w pos="VERB" lemma="fouler">fouler</w>
+          <lb n="btv1b55013464t_f141_z18"/>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="SCONJ" lemma="que">que</w>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="VERB" lemma="valoir">valent</w>
+          <w pos="SCONJ" lemma="si">si</w>
+          <w pos="INTJ" lemma="regart">regart</w>
+          <lb n="btv1b55013464t_f141_z19"/>
+          <w pos="NOUN" lemma="Me">Me</w>
+          <w pos="NOUN" lemma="porroie">porroie</w>
+          <w pos="ADP" lemma="ja">ja</w>
+          <w pos="VERB" lemma="saouler">saouler</w>
+          <lb n="btv1b55013464t_f141_z20"/>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="DET" lemma="son">ma</w>
+          <w pos="NOUN" lemma="grant">grant</w>
+          <w pos="NOUN" lemma="famine">famine</w>
+          <w pos="ADJ" lemma="abessier">abessier</w>
+          <lb n="btv1b55013464t_f141_z21"/>
+          <w pos="INTJ" lemma="q">q</w>
+          <w pos="NOUN" lemma="vant">vant</w>
+          <w pos="PRON" lemma="lui">il</w>
+          <w pos="ADV" lemma="ne">ne</w>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="VERB" lemma="pouvoir">puet</w>
+          <w pos="ADJ" lemma="rentent">rententie</w>
+          <lb n="btv1b55013464t_f141_z22"/>
+          <w pos="NOUN" lemma="r">r</w>
+          <w pos="NOUN" lemma="ompre">ompre</w>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="VERB" lemma="couer">couient</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="NOUN" lemma="parcier">parcier</w>
+          <lb n="btv1b55013464t_f141_z23"/>
+          <w pos="PRON" lemma="lui">Il</w>
+          <w pos="CCONJ" lemma="ni">ni</w>
+          <w pos="VERB" lemma="avoir">a</w>
+          <w pos="X" lemma="fors">fors</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="lessaier">lessaier</w>
+          <lb n="btv1b55013464t_f141_z24"/>
+          <w pos="NOUN" lemma="n">n</w>
+          <w pos="AUX" lemma="être">est</w>
+          <w pos="ADV" lemma="pas">pas</w>
+          <w pos="X" lemma="droiz">droiz</w>
+          <w pos="SCONJ" lemma="que">que</w>
+          <w pos="X" lemma="morir">morir</w>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="VERB" lemma="lesser">lesse</w>
+          <lb n="btv1b55013464t_f141_z25"/>
+          <w pos="PRON" lemma="c">c</w>
+          <w pos="AUX" lemma="être">este</w>
+          <w pos="NOUN" lemma="grant">grant</w>
+          <w pos="NOUN" lemma="honte">honte</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="INTJ" lemma="ceste">ceste</w>
+          <w pos="NOUN" lemma="angoisse">angoisse</w>
+          <lb n="btv1b55013464t_f141_z26"/>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="INTJ" lemma="fere">fere</w>
+          <w pos="ADV" lemma="tant">tant</w>
+          <w pos="PRON" lemma="qͥl">qͥl</w>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="VERB" lemma="connoisser">connoisse</w>
+          <lb n="btv1b55013464t_f141_z27"/>
+          <w pos="X" lemma="diex">diex</w>
+          <w pos="X" lemma="nouiaus">nouiaus</w>
+          <w pos="NOUN" lemma="pois">pois</w>
+          <w pos="CCONJ" lemma="ou">ou</w>
+          <w pos="X" lemma="an">an</w>
+          <w pos="X" lemma="men">men</w>
+          <w pos="X" lemma="cresse">cresse</w>
+          <lb n="btv1b55013464t_f141_z28"/>
+          <w pos="X" lemma="i">i</w>
+          <w pos="X" lemma="ames">ames</w>
+          <w pos="ADV" lemma="ne">ne</w>
+          <w pos="X" lemma="li">li</w>
+          <w pos="AUX" lemma="être">serai</w>
+          <w pos="X" lemma="eschis">eschis</w>
+          <lb n="btv1b55013464t_f141_z29"/>
+          <w pos="X" lemma="a">a</w>
+          <w pos="INTJ" lemma="usi">usi</w>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="VERB" lemma="truever">truevent</w>
+          <w pos="PRON" lemma="lui">il</w>
+          <w pos="X" lemma="ml̾t">ml̾t</w>
+          <w pos="ADJ" lemma="maigre">maigre</w>
+          <lb n="btv1b55013464t_f141_z30"/>
+          <w pos="X" lemma="B">B</w>
+          <w pos="X" lemma="jaus">jaus</w>
+          <w pos="X" lemma="pere">pere</w>
+          <w pos="X" lemma="des">des</w>
+          <w pos="X" lemma="filz">filz</w>
+          <w pos="X" lemma="li">li</w>
+          <w pos="X" lemma="chetis">chetis</w>
+          <lb n="btv1b55013464t_f141_z31"/>
+          <w pos="NOUN" lemma="diex">diex</w>
+          <w pos="SCONJ" lemma="comme">comme</w>
+          <w pos="PRON" lemma="lui">il</w>
+          <w pos="X" lemma="st̃">st̃</w>
+          <w pos="ADJ" lemma="amer">amer</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="ADJ" lemma="aigre">aigre</w>
+          <lb n="btv1b55013464t_f141_z32"/>
+          <w pos="X" lemma="q">q</w>
+          <w pos="X" lemma="ͥ">ͥ</w>
+          <w pos="NOUN" lemma="folement">folement</w>
+          <w pos="NOUN" lemma="parti">parti</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="PRON" lemma="toi">toi</w>
+          <lb n="btv1b55013464t_f141_z33"/>
+          <w pos="INTJ" lemma="i">i</w>
+          <w pos="PRON" lemma="en">en</w>
+          <w pos="VERB" lemma="faire">ferai</w>
+          <w pos="PRON" lemma="moi">je</w>
+          <w pos="VERB" lemma="cuire">cuit</w>
+          <w pos="X" lemma="poi">poi</w>
+          <w pos="NOUN" lemma="dessart">dessart</w>
+          <lb n="btv1b55013464t_f141_z34"/>
+          <w pos="ADV" lemma="ne">ne</w>
+          <w pos="ADV" lemma="ne">ne</w>
+          <w pos="VERB" lemma="vouloir">vout</w>
+          <w pos="VERB" lemma="croire">croire</w>
+          <w pos="DET" lemma="son">ton</w>
+          <w pos="NOUN" lemma="chastoi">chastoi</w>
+          <lb n="btv1b55013464t_f141_z35"/>
+          <w pos="PRON" lemma="lui">Il</w>
+          <w pos="VERB" lemma="vousir">vousissent</w>
+          <w pos="X" lemma="ml̃t">ml̃t</w>
+          <w pos="X" lemma="miex">miex</w>
+          <w pos="DET" lemma="au">au</w>
+          <w pos="NOUN" lemma="lart">lart</w>
+          <lb n="btv1b55013464t_f141_z36"/>
+          <w pos="PROPN" lemma="Sil">Sil</w>
+          <w pos="VERB" lemma="fuir">fussent</w>
+          <w pos="ADV" lemma="bien">bien</w>
+          <w pos="NOUN" lemma="pile">pile</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="NOUN" lemma="cuit">cuit</w>
+          <lb n="btv1b55013464t_f141_z37"/>
+          <w pos="X" lemma="n">n</w>
+          <w pos="X" lemma="e">e</w>
+          <w pos="DET" lemma="son">ta</w>
+          <w pos="X" lemma="volente">volente</w>
+          <w pos="X" lemma="otroier">otroier</w>
+          <lb n="btv1b55013464t_f141_z38"/>
+          <w pos="X" lemma="Ie">Ie</w>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="X" lemma="morrai">morrai</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="faim">faim</w>
+          <w pos="PRON" lemma="moi">je</w>
+          <w pos="VERB" lemma="cuire">cuit</w>
+          <lb n="btv1b55013464t_f141_z39"/>
+          <w pos="PRON" lemma="toi">te</w>
+          <w pos="VERB" lemma="uier">uient</w>
+          <w pos="ADV" lemma="ici">ici</w>
+          <w pos="INTJ" lemma="merci">merci</w>
+          <w pos="ADV" lemma="proier">proier</w>
+          <lb n="btv1b55013464t_f141_z40"/>
+          <w pos="X" lemma="toz">toz</w>
+          <w pos="X" lemma="repentanz">repentanz</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="DET" lemma="son">ses</w>
+          <w pos="NOUN" lemma="mesfez">mesfez</w>
+          <lb n="btv1b55013464t_f141_z41"/>
+          <w pos="X" lemma="G">G</w>
+          <w pos="X" lemma="rant">rant</w>
+          <w pos="X" lemma="mestier">mestier</w>
+          <w pos="X" lemma="avoir">ai</w>
+          <w pos="X" lemma="que">que</w>
+          <w pos="X" lemma="diex">diex</w>
+          <w pos="X" lemma="mavoit">mavoit</w>
+          <lb n="btv1b55013464t_f141_z42"/>
+          <w pos="NOUN" lemma="f">f</w>
+          <w pos="X" lemma="ilz">ilz</w>
+          <w pos="X" lemma="lieve">lieve</w>
+          <w pos="X" lemma="sus">sus</w>
+          <w pos="ADV" lemma="trop">trop</w>
+          <w pos="DET" lemma="un">des</w>
+          <w pos="X" lemma="miestez">miestez</w>
+          <lb n="btv1b55013464t_f141_z43"/>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="DET" lemma="son">tes</w>
+          <w pos="PRON" lemma="soi">se</w>
+          <w pos="DET" lemma="son">mon</w>
+          <w pos="NOUN" lemma="pere">pere</w>
+          <w pos="VERB" lemma="savoir">savoit</w>
+          <lb n="btv1b55013464t_f141_z44"/>
+          <w pos="INTJ" lemma="qͥ">qͥ</w>
+          <w pos="INTJ" lemma="ci">ci</w>
+          <w pos="PRON" lemma="toi">te</w>
+          <w pos="DET" lemma="son">mes</w>
+          <w pos="NOUN" lemma="agenillon">agenillons</w>
+          <lb n="btv1b55013464t_f141_z45"/>
+          <w pos="DET" lemma="le">Le</w>
+          <w pos="NOUN" lemma="faim">faim</w>
+          <w pos="PRON" lemma="que">que</w>
+          <w pos="PRON" lemma="moi">je</w>
+          <w pos="VERB" lemma="sueffrer">sueffre</w>
+          <w pos="PRON" lemma="ça">ca</w>
+          <w pos="VERB" lemma="fuer">fuer</w>
+          <lb n="btv1b55013464t_f141_z46"/>
+          <w pos="ADP" lemma="di">di</w>
+          <w pos="PRON" lemma="moi">moi</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="INTJ" lemma="qoi">qoi</w>
+          <w pos="AUX" lemma="être">est</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="NOUN" lemma="reson">resons</w>
+          <lb n="btv1b55013464t_f141_z47"/>
+          <w pos="X" lemma="G">G</w>
+          <w pos="X" lemma="rant">rant</w>
+          <w pos="X" lemma="pitie">pitie</w>
+          <w pos="X" lemma="len">len</w>
+          <w pos="VERB" lemma="prendre">prendioit</w>
+          <w pos="ADP" lemma="au">au</w>
+          <w pos="NOUN" lemma="cuer">cuer</w>
+          <lb n="btv1b55013464t_f141_z48"/>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="VERB" lemma="vouloir">voudroit</w>
+          <w pos="VERB" lemma="veoir">veoir</w>
+          <w pos="X" lemma="aus">aus</w>
+          <w pos="X" lemma="jex">jex</w>
+          <lb n="btv1b55013464t_f141_z49"/>
+          <w pos="X" lemma="por">por</w>
+          <w pos="INTJ" lemma="qoi">qoi</w>
+          <w pos="PRON" lemma="toi">tu</w>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="VERB" lemma="requérir">requiers</w>
+          <w pos="X" lemma="m̾ci">m̾ci</w>
+          <lb n="btv1b55013464t_f141_z50"/>
+          <w pos="DET" lemma="le">le</w>
+          <w pos="NOUN" lemma="raler">raler</w>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="VERB" lemma="être">seroit</w>
+          <w pos="DET" lemma="du">du</w>
+          <w pos="NOUN" lemma="mier">mier</w>
+          <lb n="btv1b55013464t_f141_z51"/>
+          <w pos="X" lemma="h">h</w>
+          <w pos="X" lemma="avoir">ai</w>
+          <w pos="X" lemma="biaus">biaus</w>
+          <w pos="X" lemma="doiz">doiz</w>
+          <w pos="INTJ" lemma="pere">pere</w>
+          <w pos="INTJ" lemma="veez">veez</w>
+          <w pos="INTJ" lemma="ci">ci</w>
+          <lb n="btv1b55013464t_f141_z52"/>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="CCONJ" lemma="puis">puis</w>
+          <w pos="SCONJ" lemma="que">que</w>
+          <w pos="INTJ" lemma="raler">raler</w>
+          <w pos="INTJ" lemma="men">men</w>
+          <w pos="X" lemma="estuet">estuet</w>
+          <lb n="btv1b55013464t_f141_z53"/>
+          <w pos="PROPN" lemma="Uo">Uo</w>
+          <w pos="NOUN" lemma="fil">fil</w>
+          <w pos="X" lemma="cortois">cortois</w>
+          <w pos="X" lemma="leschetive">leschetive</w>
+          <lb n="btv1b55013464t_f141_z54"/>
+          <w pos="ADP" lemma="par">par</w>
+          <w pos="NOUN" lemma="dieu">dieu</w>
+          <w pos="NOUN" lemma="or">or</w>
+          <w pos="PRON" lemma="en">en</w>
+          <w pos="AUX" lemma="être">soit</w>
+          <w pos="ADJ" lemma="questre">questre</w>
+          <w pos="X" lemma="puet">puet</w>
+          <lb n="btv1b55013464t_f141_z55"/>
+          <w pos="X" lemma="qͥ">qͥ</w>
+          <w pos="ADV" lemma="tant">tant</w>
+          <w pos="X" lemma="a">a</w>
+          <w pos="ADP" lemma="vers">vers</w>
+          <w pos="X" lemma="uꝰ">uꝰ</w>
+          <w pos="NOUN" lemma="meserre">meserre</w>
+          <lb n="btv1b55013464t_f141_z56"/>
+          <w pos="INTJ" lemma="quer">quer</w>
+          <w pos="ADJ" lemma="aincois">aincois</w>
+          <w pos="SCONJ" lemma="que">que</w>
+          <w pos="PRON" lemma="moi">je</w>
+          <w pos="VERB" lemma="nuire">nuire</w>
+          <w pos="ADP" lemma="a">a</w>
+          <lb n="btv1b55013464t_f141_z57"/>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="VERB" lemma="ouvrir">ouvre</w>
+          <w pos="X" lemma="sus">sus</w>
+          <w pos="X" lemma="vostre">vostre</w>
+          <w pos="NOUN" lemma="defois">defois</w>
+          <lb n="btv1b55013464t_f141_z58"/>
+          <w pos="X" lemma="biaus">biaus</w>
+          <w pos="X" lemma="douz">douz</w>
+          <w pos="NOUN" lemma="filz">filz</w>
+          <w pos="ADP" lemma="par">par</w>
+          <w pos="PUNCT" lemma=".">.</w>
+          <w pos="NOUN" lemma="c.">c.</w>
+          <w pos="ADJ" lemma="mile">mile</w>
+          <w pos="NOUN" lemma="fois">fois</w>
+          <lb n="btv1b55013464t_f141_z59"/>
+          <w pos="INTJ" lemma="requerai">requerai</w>
+          <w pos="DET" lemma="son">mon</w>
+          <w pos="NOUN" lemma="pere">pere</w>
+          <w pos="X" lemma="m̾ci">m̾ci</w>
+          <lb n="btv1b55013464t_f141_z60"/>
+          <w pos="X" lemma="b">b</w>
+          <w pos="INTJ" lemma="ée">ée</w>
+          <w pos="X" lemma="saí">saí</w>
+          <w pos="ADP" lemma="vers">vers</w>
+          <w pos="DET" lemma="son">mon</w>
+          <w pos="NOUN" lemma="paître">pais</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="NOUN" lemma="voie">voie</w>
+          <lb n="btv1b55013464t_f141_z61"/>
+          <w pos="NOUN" lemma="soie">Soies</w>
+          <w pos="PRON" lemma="toi">tu</w>
+          <w pos="X" lemma="li">li</w>
+          <w pos="X" lemma="tres">tres</w>
+          <w pos="INTJ" lemma="bien">bien</w>
+          <w pos="X" lemma="venuz">venuz</w>
+          <lb n="btv1b55013464t_f141_z62"/>
+          <w pos="DET" lemma="son">mes</w>
+          <w pos="PRON" lemma="moi">je</w>
+          <w pos="VERB" lemma="cuire">cuit</w>
+          <w pos="SCONJ" lemma="que">que</w>
+          <w pos="NOUN" lemma="enui">enuis</w>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="VERB" lemma="voie">voie</w>
+          <lb n="btv1b55013464t_f141_z63"/>
+          <w pos="VERB" lemma="affubler">affuble</w>
+          <w pos="PRON" lemma="toi">toi</w>
+          <w pos="SCONJ" lemma="que">que</w>
+          <w pos="ADV" lemma="trop">trop</w>
+          <w pos="AUX" lemma="être">es</w>
+          <w pos="ADJ" lemma="nu">nus</w>
+          <lb n="btv1b55013464t_f141_z64"/>
+          <w pos="DET" lemma="son">Mon</w>
+          <w pos="NOUN" lemma="pere">pere</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="DET" lemma="du">du</w>
+          <w pos="NOUN" lemma="sien">sien</w>
+          <w pos="X" lemma="poi">poi</w>
+          <w pos="X" lemma="me">me</w>
+          <w pos="X" lemma="doinst">doinst</w>
+          <lb n="btv1b55013464t_f141_z65"/>
+          <w pos="PROPN" lemma="I">I</w>
+          <w pos="X" lemma="ames">ames</w>
+          <w pos="ADV" lemma="ne">ne</w>
+          <w pos="PRON" lemma="toi">te</w>
+          <w pos="VERB" lemma="reconnaître">reconneusse</w>
+          <lb n="btv1b55013464t_f141_z66"/>
+          <w pos="X" lemma="biaus">biaus</w>
+          <w pos="X" lemma="filz">filz</w>
+          <w pos="PRON" lemma="soi">se</w>
+          <w pos="PRON" lemma="moi">je</w>
+          <w pos="DET" lemma="un">des</w>
+          <w pos="X" lemma="jes">jes</w>
+          <w pos="X" lemma="ser">ser</w>
+          <w pos="INTJ" lemma="seusse">seusse</w>
+          <lb n="btv1b55013464t_f141_z67"/>
+          <w pos="ADV" lemma="quant">quant</w>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="VERB" lemma="u̾rer">u̾ra</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="SCONJ" lemma="si">si</w>
+          <w pos="INTJ" lemma="uil">uil</w>
+          <w pos="NOUN" lemma="point">point</w>
+          <lb n="btv1b55013464t_f141_z68"/>
+          <w pos="X" lemma="b">b</w>
+          <w pos="NOUN" lemma="ine">ine</w>
+          <w pos="X" lemma="sui">sui</w>
+          <w pos="VERB" lemma="vonloir">venuz</w>
+          <w pos="DET" lemma="du">du</w>
+          <w pos="NOUN" lemma="mont">mont</w>
+          <w pos="CCONJ" lemma="ou">ou</w>
+          <w pos="NOUN" lemma="val">val</w>
+          <lb n="btv1b55013464t_f141_z69"/>
+          <w pos="SCONJ" lemma="que">que</w>
+          <w pos="PRON" lemma="toi">tu</w>
+          <w pos="VERB" lemma="venir">venisses</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="ADJ" lemma="tel">tel</w>
+          <w pos="NOUN" lemma="guise">guise</w>
+          <lb n="btv1b55013464t_f141_z70"/>
+          <w pos="NOUN" lemma="M">M</w>
+          <w pos="AUX" lemma="être">es</w>
+          <w pos="PRON" lemma="soi">se</w>
+          <w pos="PRON" lemma="moi">je</w>
+          <w pos="VERB" lemma="ralaisser">ralaisse</w>
+          <w pos="ADP" lemma="a">a</w>
+          <w pos="NOUN" lemma="cheval">cheval</w>
+          <lb n="btv1b55013464t_f141_z71"/>
+          <w pos="PROPN" lemma="Ie">Ie</w>
+          <w pos="VERB" lemma="teusser">teusse</w>
+          <w pos="ADJ" lemma="autre">autre</w>
+          <w pos="NOUN" lemma="robe">robe</w>
+          <w pos="ADJ" lemma="qui">quise</w>
+          <lb n="btv1b55013464t_f141_z72"/>
+          <w pos="X" lemma="B">B</w>
+          <w pos="X" lemma="i᷑">i᷑</w>
+          <w pos="X" lemma="vestuz">vestuz</w>
+          <w pos="X" lemma="dune">dune</w>
+          <w pos="NOUN" lemma="robe">robe</w>
+          <w pos="NOUN" lemma="vaire">vaire</w>
+          <lb n="btv1b55013464t_f141_z73"/>
+          <w pos="PROPN" lemma="Tou">Tou</w>
+          <w pos="X" lemma="mesfet">mesfet</w>
+          <w pos="ADV" lemma="ne">ne</w>
+          <w pos="VERB" lemma="prendre">pris</w>
+          <w pos="DET" lemma="un">une</w>
+          <w pos="NOUN" lemma="nois">nois</w>
+          <lb n="btv1b55013464t_f141_z74"/>
+          <w pos="PROPN" lemma="I">I</w>
+          <w pos="VERB" lemma="eusser">eusse</w>
+          <w pos="ADV" lemma="assez">assez</w>
+          <w pos="X" lemma="meillor">meillor</w>
+          <w pos="NOUN" lemma="repaire">repaire</w>
+          <lb n="btv1b55013464t_f141_z75"/>
+          <w pos="DET" lemma="un">des</w>
+          <w pos="CCONJ" lemma="puis">puis</w>
+          <w pos="SCONJ" lemma="que">que</w>
+          <w pos="PRON" lemma="toi">tu</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="reconnois">reconnois</w>
+          <lb n="btv1b55013464t_f141_z76"/>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="SCONJ" lemma="que">que</w>
+          <w pos="PRON" lemma="toi">tu</w>
+          <w pos="VERB" lemma="avoir">as</w>
+          <w pos="DET" lemma="le">le</w>
+          <w pos="NOUN" lemma="mal">mal</w>
+          <w pos="ADJ" lemma="lessi">lessie</w>
+          <lb n="btv1b55013464t_f141_z77"/>
+          <w pos="X" lemma="M">M</w>
+          <w pos="X" lemma="es">es</w>
+          <w pos="X" lemma="or">or</w>
+          <w pos="CCONJ" lemma="ni">ni</w>
+          <w pos="VERB" lemma="avoir">aura</w>
+          <w pos="NOUN" lemma="point">point</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="feste">feste</w>
+          <lb n="btv1b55013464t_f141_z78"/>
+          <w pos="X" lemma="q">q</w>
+          <w pos="X" lemma="ͣ">ͣ</w>
+          <w pos="DET" lemma="son">mon</w>
+          <w pos="NOUN" lemma="frere">frere</w>
+          <w pos="AUX" lemma="être">est</w>
+          <w pos="SCONJ" lemma="si">si</w>
+          <w pos="NOUN" lemma="pute">pute</w>
+          <w pos="NOUN" lemma="beste">beste</w>
+          <lb n="btv1b55013464t_f141_z79"/>
+          <w pos="DET" lemma="son">Mon</w>
+          <w pos="NOUN" lemma="veel">veel</w>
+          <w pos="DET" lemma="le">le</w>
+          <w pos="NOUN" lemma="miex">miex</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="NOUN" lemma="crestie">crestie</w>
+          <lb n="btv1b55013464t_f141_z80"/>
+          <w pos="SCONJ" lemma="que">que</w>
+          <w pos="PRON" lemma="lui">il</w>
+          <w pos="X" lemma="maura">maura</w>
+          <w pos="X" lemma="tost">tost</w>
+          <w pos="X" lemma="reprove">reprove</w>
+          <lb n="btv1b55013464t_f141_z81"/>
+          <w pos="INTJ" lemma="tuerons">tuerons</w>
+          <w pos="X" lemma="por">por</w>
+          <w pos="DET" lemma="son">ta</w>
+          <w pos="NOUN" lemma="bien">bien</w>
+          <w pos="VERB" lemma="venir">venue</w>
+          <lb n="btv1b55013464t_f141_z82"/>
+          <w pos="PRON" lemma="que">que</w>
+          <w pos="VERB" lemma="jalrer">jaurai</w>
+          <w pos="DET" lemma="le">le</w>
+          <w pos="X" lemma="ch̾">ch̾</w>
+          <w pos="X" lemma="tens">tens</w>
+          <w pos="X" lemma="trove">trove</w>
+          <lb n="btv1b55013464t_f141_z83"/>
+          <w pos="ADP" lemma="de">d</w>
+          <w pos="VERB" lemma="avoir">ont</w>
+          <w pos="X" lemma="nostre">nostre</w>
+          <w pos="NOUN" lemma="cort">cort</w>
+          <w pos="AUX" lemma="être">sera</w>
+          <w pos="VERB" lemma="tenir">tenue</w>
+          <lb n="btv1b55013464t_f141_z84"/>
+          <w pos="INTJ" lemma="mètre">m</w>
+          <w pos="AUX" lemma="être">es</w>
+          <w pos="PRON" lemma="soi">se</w>
+          <w pos="DET" lemma="son">mon</w>
+          <w pos="NOUN" lemma="frere">frere</w>
+          <w pos="AUX" lemma="être">est</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="putain">putain</w>
+          <lb n="btv1b55013464t_f141_z85"/>
+          <w pos="X" lemma="ça">ca</w>
+          <w pos="X" lemma="dedenz">dedenz</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="NOUN" lemma="nostre">nostre</w>
+          <w pos="NOUN" lemma="manager">manage</w>
+          <lb n="btv1b55013464t_f141_z86"/>
+          <w pos="X" lemma="M">M</w>
+          <w pos="X" lemma="es">es</w>
+          <w pos="X" lemma="peres">peres</w>
+          <w pos="AUX" lemma="être">est</w>
+          <w pos="ADV" lemma="plus">plus</w>
+          <w pos="ADJ" lemma="debonaire">debonaire</w>
+          <lb n="btv1b55013464t_f141_z87"/>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="INTJ" lemma="manderons">manderons</w>
+          <w pos="X" lemma="nostre">nostre</w>
+          <w pos="NOUN" lemma="uisnage">uisnage</w>
+          <lb n="btv1b55013464t_f141_z88"/>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="INTJ" lemma="miex">miex</w>
+          <w pos="NOUN" lemma="set">set</w>
+          <w pos="VERB" lemma="entendre">entendre</w>
+          <w pos="NOUN" lemma="reson">reson</w>
+          <lb n="btv1b55013464t_f141_z89"/>
+          <w pos="PRON" lemma="toi">tu</w>
+          <w pos="AUX" lemma="avoir">as</w>
+          <w pos="ADV" lemma="ore">ore</w>
+          <w pos="VERB" lemma="avoir">eu</w>
+          <w pos="NOUN" lemma="mal">mal</w>
+          <w pos="ADV" lemma="assez">assez</w>
+          <lb n="btv1b55013464t_f141_z90"/>
+          <w pos="NOUN" lemma="h">h</w>
+          <w pos="X" lemma="e">e</w>
+          <w pos="X" lemma="diex">diex</w>
+          <w pos="PRON" lemma="moi">je</w>
+          <w pos="VERB" lemma="voir">voi</w>
+          <w pos="X" lemma="nostre">nostre</w>
+          <w pos="X" lemma="meson">meson</w>
+          <lb n="btv1b55013464t_f141_z91"/>
+          <w pos="ADV" lemma="tant">tant</w>
+          <w pos="SCONJ" lemma="que">que</w>
+          <w pos="PRON" lemma="toi">tu</w>
+          <w pos="VERB" lemma="soyer">soies</w>
+          <w pos="VERB" lemma="respasser">respassez</w>
+          <lb n="btv1b55013464t_f141_z92"/>
+          <w pos="DET" lemma="L">L</w>
+          <w pos="DET" lemma="être">es</w>
+          <w pos="NOUN" lemma="fenestre">fenestres</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="DET" lemma="le">les</w>
+          <w pos="NOUN" lemma="aruol">aruols</w>
+          <lb n="btv1b55013464t_f141_z93"/>
+          <w pos="NOUN" lemma="estuet">estuet</w>
+          <w pos="X" lemma="con">con</w>
+          <w pos="X" lemma="toi">te</w>
+          <w pos="X" lemma="baigne">baigne</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="NOUN" lemma="dangiere">dangiere</w>
+          <lb n="btv1b55013464t_f141_z94"/>
+          <w pos="PRON" lemma="dont">dont</w>
+          <w pos="PRON" lemma="moi">je</w>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="VERB" lemma="pardir">pardi</w>
+          <w pos="ADP" lemma="comme">comme</w>
+          <w pos="NOUN" lemma="fol">fols</w>
+          <lb n="btv1b55013464t_f141_z95"/>
+          <w pos="INTJ" lemma="hez">Hez</w>
+          <w pos="ADP" lemma="avant">avant</w>
+          <w pos="PRON" lemma="moi">je</w>
+          <w pos="X" lemma="uieng">uieng</w>
+          <w pos="X" lemma="a">a</w>
+          <w pos="X" lemma="prangiere">prangiere</w>
+          <lb n="btv1b55013464t_f141_z96"/>
+          <w pos="DET" lemma="son">Mon</w>
+          <w pos="NOUN" lemma="pere">pere</w>
+          <w pos="VERB" lemma="voir">voi</w>
+          <w pos="X" lemma="dedenz">dedenz</w>
+          <w pos="VERB" lemma="seoir">seoir</w>
+          <lb n="btv1b55013464t_f141_z97"/>
+          <w pos="X" lemma="M">M</w>
+          <w pos="X" lemma="l̾t">l̾t</w>
+          <w pos="AUX" lemma="être">est</w>
+          <w pos="X" lemma="ore">ore</w>
+          <w pos="X" lemma="esmus">esmus</w>
+          <w pos="X" lemma="cis">cis</w>
+          <w pos="X" lemma="osteus">osteus</w>
+          <lb n="btv1b55013464t_f141_z98"/>
+          <w pos="INTJ" lemma="M">M</w>
+          <w pos="VERB" lemma="être">es</w>
+          <w pos="PRON" lemma="moi">je</w>
+          <w pos="ADV" lemma="ne">ne</w>
+          <w pos="VERB" lemma="loser">loserai</w>
+          <w pos="VERB" lemma="veoir">veoir</w>
+          <lb n="btv1b55013464t_f141_z99"/>
+          <w pos="X" lemma="qͥ">qͥ</w>
+          <w pos="AUX" lemma="être">est</w>
+          <w pos="X" lemma="or">or</w>
+          <w pos="X" lemma="cis">cis</w>
+          <w pos="X" lemma="nouiaus">nouiaus</w>
+          <w pos="X" lemma="piteus">piteus</w>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>
