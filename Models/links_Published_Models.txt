@@ -1,0 +1,5 @@
+## Modèles publiés
+
+* TrOCR fine-tuné (CV) : https://huggingface.co/TinhinaneO/trocr-medieval-french-2026
+* Camembert fine-tuné (NLP) : https://huggingface.co/TinhinaneO/camembert-ner-medieval-french-2026
+
