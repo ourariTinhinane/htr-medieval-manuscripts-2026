@@ -5,7 +5,9 @@
     "objet": "dame",
     "confiance": 0.85,
     "method": "gazetteer",
+    "distance": 1,
+    "type_document": "littéraire",
     "source_line": "btv1b55013464t_f143_z65",
-    "correct": true
+    "correct": null
   }
 ]

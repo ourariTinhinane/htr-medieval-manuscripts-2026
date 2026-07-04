@@ -1,8 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcription HTR — btv1b55013464t_f141</title>
+        <author>Pipeline HETIC MD5 2026</author>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
   <text>
     <body>
-      <div type="acte">
+      <div type="transcription">
         <p>
           <lb n="btv1b55013464t_f141_z0"/>
           <w pos="NOUN" lemma="n">n</w>
@@ -406,7 +414,9 @@
           <w pos="X" lemma="leschetive">leschetive</w>
           <lb n="btv1b55013464t_f141_z54"/>
           <w pos="ADP" lemma="par">par</w>
-          <w pos="NOUN" lemma="dieu">dieu</w>
+          <persName>
+            <w pos="NOUN" lemma="dieu">dieu</w>
+          </persName>
           <w pos="NOUN" lemma="or">or</w>
           <w pos="PRON" lemma="en">en</w>
           <w pos="AUX" lemma="être">soit</w>
@@ -587,7 +597,9 @@
           <w pos="X" lemma="q">q</w>
           <w pos="X" lemma="ͣ">ͣ</w>
           <w pos="DET" lemma="son">mon</w>
-          <w pos="NOUN" lemma="frere">frere</w>
+          <roleName type="nobility">
+            <w pos="NOUN" lemma="frere">frere</w>
+          </roleName>
           <w pos="AUX" lemma="être">est</w>
           <w pos="SCONJ" lemma="si">si</w>
           <w pos="NOUN" lemma="pute">pute</w>
@@ -630,7 +642,9 @@
           <w pos="AUX" lemma="être">es</w>
           <w pos="PRON" lemma="soi">se</w>
           <w pos="DET" lemma="son">mon</w>
-          <w pos="NOUN" lemma="frere">frere</w>
+          <roleName type="nobility">
+            <w pos="NOUN" lemma="frere">frere</w>
+          </roleName>
           <w pos="AUX" lemma="être">est</w>
           <w pos="ADP" lemma="de">de</w>
           <w pos="NOUN" lemma="putain">putain</w>

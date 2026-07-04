@@ -1,0 +1,140 @@
+{
+  "@context": {
+    "@vocab": "http://schema.org/",
+    "medieval": "http://example.org/medieval#",
+    "porte_titre": "medieval:porteTitre",
+    "réside_à": "medieval:residesAt",
+    "agit_lors_de": "medieval:agitLorsDe",
+    "appartient_à": "medieval:appartientA"
+  },
+  "@graph": [
+    {
+      "@id": "medieval:PER:dieu",
+      "label": "dieu",
+      "type": "PER",
+      "n_mentions": 1,
+      "source_lines": [
+        "btv1b55013464t_f141_z54"
+      ]
+    },
+    {
+      "@id": "medieval:TITLE:frere",
+      "label": "frere",
+      "type": "TITLE",
+      "n_mentions": 2,
+      "source_lines": [
+        "btv1b55013464t_f141_z78",
+        "btv1b55013464t_f141_z84"
+      ]
+    },
+    {
+      "@id": "medieval:PER:mabile",
+      "label": "mabile",
+      "type": "PER",
+      "n_mentions": 5,
+      "source_lines": [
+        "btv1b55013464t_f143_z6",
+        "btv1b55013464t_f143_z31",
+        "btv1b55013464t_f143_z52",
+        "btv1b55013464t_f143_z60",
+        "btv1b55013464t_f143_z83"
+      ]
+    },
+    {
+      "@id": "medieval:TITLE:conte",
+      "label": "conte",
+      "type": "TITLE",
+      "n_mentions": 4,
+      "source_lines": [
+        "btv1b55013464t_f143_z7",
+        "btv1b55013464t_f143_z40",
+        "btv1b55013464t_f143_z78",
+        "Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893 (1)_z6"
+      ]
+    },
+    {
+      "@id": "medieval:TITLE:dame",
+      "label": "dame",
+      "type": "TITLE",
+      "n_mentions": 4,
+      "source_lines": [
+        "btv1b55013464t_f143_z15",
+        "btv1b55013464t_f143_z25",
+        "btv1b55013464t_f143_z65",
+        "btv1b55013464t_f143_z96"
+      ]
+    },
+    {
+      "@id": "medieval:PER:fouch̾",
+      "label": "fouch̾",
+      "type": "PER",
+      "n_mentions": 1,
+      "source_lines": [
+        "btv1b55013464t_f143_z36"
+      ]
+    },
+    {
+      "@id": "medieval:TITLE:sire",
+      "label": "sire",
+      "type": "TITLE",
+      "n_mentions": 2,
+      "source_lines": [
+        "btv1b55013464t_f143_z65",
+        "Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z92"
+      ]
+    },
+    {
+      "@id": "medieval:PER:tiece",
+      "label": "tiece",
+      "type": "PER",
+      "n_mentions": 2,
+      "source_lines": [
+        "btv1b55013464t_f143_z65",
+        "btv1b55013464t_f143_z94"
+      ],
+      "relations": [
+        {
+          "relation": "porte_titre",
+          "objet": "medieval:TITLE:dame",
+          "confiance": 0.85
+        }
+      ]
+    },
+    {
+      "@id": "medieval:TITLE:roy",
+      "label": "roy",
+      "type": "TITLE",
+      "n_mentions": 9,
+      "source_lines": [
+        "Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z48",
+        "Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z49",
+        "Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z6",
+        "Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z8",
+        "Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z16",
+        "Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z27",
+        "Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893 (1)_z5",
+        "Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893 (1)_z9",
+        "Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893 (1)_z13"
+      ]
+    },
+    {
+      "@id": "medieval:LOC:france",
+      "label": "france",
+      "type": "LOC",
+      "n_mentions": 2,
+      "source_lines": [
+        "Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z55",
+        "Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893 (1)_z23"
+      ]
+    },
+    {
+      "@id": "medieval:TITLE:duc",
+      "label": "duc",
+      "type": "TITLE",
+      "n_mentions": 1,
+      "source_lines": [
+        "Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893 (1)_z12"
+      ]
+    }
+  ]
+}

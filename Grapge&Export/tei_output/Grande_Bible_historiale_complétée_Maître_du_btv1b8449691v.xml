@@ -1,0 +1,911 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcription HTR — Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v</title>
+        <author>Pipeline HETIC MD5 2026</author>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="transcription">
+        <p>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z0"/>
+          <w pos="X" lemma="ly">ly</w>
+          <w pos="VERB" lemma="esprer">espent</w>
+          <w pos="VERB" lemma="aparcier">aparcient</w>
+          <w pos="NOUN" lemma="alaine">alaine</w>
+          <w pos="ADV" lemma="aussi">aussi</w>
+          <w pos="X" lemma="concil">concil</w>
+          <w pos="INTJ" lemma="deist">deist</w>
+          <w pos="PRON" lemma="lui">il</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z1"/>
+          <w pos="NOUN" lemma="fist">fist</w>
+          <w pos="DET" lemma="le">le</w>
+          <w pos="NOUN" lemma="corps">corps</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="terre">terre</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="X" lemma="lame">lame</w>
+          <w pos="X" lemma="crea">crea</w>
+          <w pos="X" lemma="de">de</w>
+          <w pos="X" lemma="nyeaver">nyeaver</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z2"/>
+          <w pos="CCONJ" lemma="et">Et</w>
+          <w pos="DET" lemma="ce">ce</w>
+          <w pos="NOUN" lemma="quid">quid</w>
+          <w pos="VERB" lemma="dire">dist</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="NOUN" lemma="face">face</w>
+          <w pos="AUX" lemma="être">est</w>
+          <w pos="ADP" lemma="a">a</w>
+          <w pos="VERB" lemma="entendre">entendre</w>
+          <w pos="ADP" lemma="en">en</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z3"/>
+          <w pos="DET" lemma="tout">tout</w>
+          <w pos="NOUN" lemma="lomme">lomme</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="AUX" lemma="être">est</w>
+          <w pos="X" lemma="cy">cy</w>
+          <w pos="NOUN" lemma="mise">mise</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="NOUN" lemma="partie">partie</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="lomme">lomme</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z4"/>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="NOUN" lemma="luy">luy</w>
+          <w pos="DET" lemma="le">les</w>
+          <w pos="X" lemma=".u.">.u.</w>
+          <w pos="NOUN" lemma="cens">cens</w>
+          <w pos="SCONJ" lemma="si">si</w>
+          <w pos="PRON" lemma="lui">le</w>
+          <w pos="VERB" lemma="nommer">nomma</w>
+          <w pos="ADP" lemma="pour">pour</w>
+          <w pos="DET" lemma="ce">ce</w>
+          <w pos="NOUN" lemma="seuse">seuse</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z5"/>
+          <w pos="INTJ" lemma="con">con</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="ADV" lemma="plus">plus</w>
+          <w pos="ADJ" lemma="digne">digne</w>
+          <w pos="NOUN" lemma="partie">partie</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="lome.">lome.</w>
+          <w pos="CCONJ" lemma="et">Et</w>
+          <w pos="DET" lemma="ce">ce</w>
+          <w pos="NOUN" lemma="quil">quil</w>
+          <w pos="DET" lemma="du">du</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z6"/>
+          <w pos="PROPN" lemma="lesperit">lesperit</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="uie">uie</w>
+          <w pos="AUX" lemma="être">est</w>
+          <w pos="ADP" lemma="a">a</w>
+          <w pos="VERB" lemma="entendre">entendre</w>
+          <w pos="NOUN" lemma="lame">lame</w>
+          <w pos="CCONJ" lemma="car">car</w>
+          <w pos="NOUN" lemma="parly">parly</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z7"/>
+          <w pos="NOUN" lemma="espire">espire</w>
+          <w pos="ADJ" lemma="lomme">lomme</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="NOUN" lemma="uit.">uit.</w>
+          <w pos="CCONJ" lemma="et">Et</w>
+          <w pos="AUX" lemma="être">fut</w>
+          <w pos="VERB" lemma="faire">fait</w>
+          <w pos="NOUN" lemma="hom">hom</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="NOUN" lemma="amie">amie</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z8"/>
+          <w pos="VERB" lemma="jouvoir">jouvant</w>
+          <w pos="NOUN" lemma="myent">myent</w>
+          <w pos="ADJ" lemma="mouvable">mouvable</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="uie">uie</w>
+          <w pos="INTJ" lemma="amort">amort</w>
+          <w pos="SCONJ" lemma="si">si</w>
+          <w pos="INTJ" lemma="con">con</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z9"/>
+          <w pos="PRON" lemma="moi">me</w>
+          <w pos="AUX" lemma="être">est</w>
+          <w pos="DET" lemma="le">l</w>
+          <w pos="NOUN" lemma="ame">ame</w>
+          <w pos="NOUN" lemma="dune">dune</w>
+          <w pos="NOUN" lemma="beste">beste</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="AUX" lemma="être">fut</w>
+          <w pos="VERB" lemma="faire">fait</w>
+          <w pos="NOUN" lemma="lomme">lomme</w>
+          <w pos="VERB" lemma="avoir">eu</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z10"/>
+          <w pos="NOUN" lemma="droit">droit</w>
+          <w pos="NOUN" lemma="aige.">aige.</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="NOUN" lemma="lange">lange</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="SYM" lemma=".xii.">.xii.</w>
+          <w pos="NOUN" lemma="ans.">ans.</w>
+          <w pos="VERB" lemma="donner">donne</w>
+          <w pos="NOUN" lemma="mor">mor</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z11"/>
+          <w pos="NOUN" lemma="tier">tier</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="VERB" lemma="mentir">mient</w>
+          <w pos="NOUN" lemma="mortier">mortier</w>
+          <w pos="ADJ" lemma="puissan">puissans</w>
+          <w pos="VERB" lemma="demourir">demourir</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z12"/>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="ADV" lemma="non">non</w>
+          <w pos="INTJ" lemma="puissans">puissans</w>
+          <w pos="X" lemma="demourir.">demourir.</w>
+          <w pos="CCONJ" lemma="et">Et</w>
+          <w pos="AUX" lemma="être">fut</w>
+          <w pos="NOUN" lemma="lame">lame</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z13"/>
+          <w pos="NOUN" lemma="mise">mise</w>
+          <w pos="CCONJ" lemma="ou">ou</w>
+          <w pos="NOUN" lemma="corps">corps</w>
+          <w pos="X" lemma="ja">ja</w>
+          <w pos="X" lemma="fournee">fournee</w>
+          <w pos="X" lemma="aincois">aincois</w>
+          <w pos="ADJ" lemma="quel">quelle</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z14"/>
+          <w pos="PRON" lemma="y">y</w>
+          <w pos="X" lemma="fust">fust</w>
+          <w pos="X" lemma="mise.">mise.</w>
+          <w pos="SCONJ" lemma="si">Si</w>
+          <w pos="X" lemma="puet">puet</w>
+          <w pos="PRON" lemma="on">on</w>
+          <w pos="VERB" lemma="demander">demander</w>
+          <w pos="PRON" lemma="soi">se</w>
+          <w pos="X" lemma="leune">leune</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z15"/>
+          <w pos="AUX" lemma="être">fut</w>
+          <w pos="VERB" lemma="crendre">cree</w>
+          <w pos="ADV" lemma="autrement">autrement</w>
+          <w pos="ADJ" lemma="quel">quelle</w>
+          <w pos="AUX" lemma="être">fut</w>
+          <w pos="ADJ" lemma="espandu">espandue</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z16"/>
+          <w pos="CCONJ" lemma="ou">ou</w>
+          <w pos="NOUN" lemma="corps">corps</w>
+          <w pos="PRON" lemma="ce">ce</w>
+          <w pos="PRON" lemma="lui">elle</w>
+          <w pos="AUX" lemma="être">fut</w>
+          <w pos="NOUN" lemma="cree">cree</w>
+          <w pos="ADP" lemma="hors">hors</w>
+          <w pos="DET" lemma="le">le</w>
+          <w pos="NOUN" lemma="corps">corps</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="INTJ" lemma="ot">ot</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z17"/>
+          <w pos="NOUN" lemma="nenturele">nenturele</w>
+          <w pos="NOUN" lemma="voleute">voleute</w>
+          <w pos="NOUN" lemma="destre">destre</w>
+          <w pos="NOUN" lemma="mise">mise</w>
+          <w pos="CCONJ" lemma="ou">ou</w>
+          <w pos="NOUN" lemma="corps.Si">corps.Si</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z18"/>
+          <w pos="VERB" lemma="dire">dit</w>
+          <w pos="PRON" lemma="on">on</w>
+          <w pos="SCONJ" lemma="que">que</w>
+          <w pos="NOUN" lemma="quil">quil</w>
+          <w pos="AUX" lemma="être">fust</w>
+          <w pos="VERB" lemma="faire">fait</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="luy">luy</w>
+          <w pos="NOUN" lemma="toutezuoie">toutezuoies</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z19"/>
+          <w pos="DET" lemma="le">les</w>
+          <w pos="NOUN" lemma="ame">ames</w>
+          <w pos="PRON" lemma="qui">qui</w>
+          <w pos="VERB" lemma="apre">apres</w>
+          <w pos="NOUN" lemma="luy">luy</w>
+          <w pos="AUX" lemma="être">furent</w>
+          <w pos="PRON" lemma="en">en</w>
+          <w pos="AUX" lemma="être">sont</w>
+          <w pos="NOUN" lemma="cree">crees</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z20"/>
+          <w pos="ADV" lemma="entierement">entierement</w>
+          <w pos="ADJ" lemma="quel">quelles</w>
+          <w pos="AUX" lemma="être">sont</w>
+          <w pos="VERB" lemma="espandrer">espandues</w>
+          <w pos="CCONJ" lemma="ou">ou</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z21"/>
+          <w pos="NOUN" lemma="corps">corps</w>
+          <w pos="PUNCT" lemma=".">.</w>
+          <w pos="ADP" lemma="de">De</w>
+          <w pos="NOUN" lemma="paradis">paradis</w>
+          <w pos="ADJ" lemma="terrestre">terrestre</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="DET" lemma="un">des</w>
+          <w pos="NOUN" lemma="ardies:">ardies:</w>
+          <w pos="CCONJ" lemma="et">Et</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z22"/>
+          <w pos="X" lemma="nostre">nostre</w>
+          <w pos="NOUN" lemma="sire">sires</w>
+          <w pos="NOUN" lemma="dieu">dieux</w>
+          <w pos="VERB" lemma="avoir">avoit</w>
+          <w pos="NOUN" lemma="plainte">plainte</w>
+          <w pos="NOUN" lemma="paradis">paradis</w>
+          <w pos="ADP" lemma="de">de</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z23"/>
+          <w pos="NOUN" lemma="delice">delices</w>
+          <w pos="ADP" lemma="de">des</w>
+          <w pos="DET" lemma="le">le</w>
+          <w pos="NOUN" lemma="commencement">commencement</w>
+          <w pos="ADV" lemma="aussi">aussi</w>
+          <w pos="SCONJ" lemma="comme">comme</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z24"/>
+          <w pos="PRON" lemma="soi">se</w>
+          <w pos="DET" lemma="aucun">aucun</w>
+          <w pos="X" lemma="demandast">demandast</w>
+          <w pos="INTJ" lemma="demoura">demoura</w>
+          <w pos="PRON" lemma="lui">il</w>
+          <w pos="X" lemma="home">home</w>
+          <w pos="INTJ" lemma="la">la</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z25"/>
+          <w pos="CCONJ" lemma="ou">ou</w>
+          <w pos="PRON" lemma="lui">il</w>
+          <w pos="AUX" lemma="être">fut</w>
+          <w pos="VERB" lemma="faire">fais</w>
+          <w pos="INTJ" lemma="cest">cest</w>
+          <w pos="CCONJ" lemma="ou">ou</w>
+          <w pos="NOUN" lemma="champ">champ</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="X" lemma="damas.">damas.</w>
+          <w pos="PROPN" lemma="Nen">Nen</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z26"/>
+          <w pos="X" lemma="tul.">tul.</w>
+          <w pos="CCONJ" lemma="ou">ou</w>
+          <w pos="X" lemma="donc.">donc.</w>
+          <w pos="PRON" lemma="lui">Il</w>
+          <w pos="AUX" lemma="être">fut</w>
+          <w pos="NOUN" lemma="porte">portes</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="NOUN" lemma="paradis">paradis</w>
+          <w pos="DET" lemma="le">le</w>
+          <w pos="ADJ" lemma="quel">quel</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z27"/>
+          <w pos="NOUN" lemma="dieu">dieux</w>
+          <w pos="AUX" lemma="avoir">avoit</w>
+          <w pos="VERB" lemma="faire">fait</w>
+          <w pos="DET" lemma="au">au</w>
+          <w pos="NOUN" lemma="tiers">tiers</w>
+          <w pos="NOUN" lemma="jour.">jour.</w>
+          <w pos="CCONJ" lemma="et">Et</w>
+          <w pos="VERB" lemma="planter">plante</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z28"/>
+          <w pos="DET" lemma="un">des</w>
+          <w pos="NOUN" lemma="arbre">arbres</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="DET" lemma="un">des</w>
+          <w pos="NOUN" lemma="heir">heirs</w>
+          <w pos="ADP" lemma="de">des</w>
+          <w pos="DET" lemma="le">le</w>
+          <w pos="NOUN" lemma="commencem̃t">commencem̃t</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z29"/>
+          <w pos="PRON" lemma="ce">ce</w>
+          <w pos="DET" lemma="son">ses</w>
+          <w pos="NOUN" lemma="creacions.">creacions.</w>
+          <w pos="ADV" lemma="quant">Quant</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="NOUN" lemma="terre">terre</w>
+          <w pos="VERB" lemma="apparaître">apparut</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z30"/>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="PRON" lemma="lui">il</w>
+          <w pos="X" lemma="lei">lei</w>
+          <w pos="VERB" lemma="firre">fist</w>
+          <w pos="VERB" lemma="porter">porter</w>
+          <w pos="DET" lemma="un">un</w>
+          <w pos="NOUN" lemma="lieu">lieu</w>
+          <w pos="VERB" lemma="être">est</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="X" lemma="t̾re">t̾re</w>
+          <w pos="X" lemma="es">es</w>
+          <w pos="X" lemma="dedui">dedui</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z31"/>
+          <w pos="PUNCT" lemma="sans.">sans.</w>
+          <w pos="NOUN" lemma="loing">loing</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="mer">mer</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="NOUN" lemma="deterre">deterre</w>
+          <w pos="ADJ" lemma="habitable">habitable</w>
+          <w pos="NOUN" lemma="moult">moult</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z32"/>
+          <w pos="VERB" lemma="secrer">secrez</w>
+          <w pos="PRON" lemma="lequel">lequel</w>
+          <w pos="NOUN" lemma="dieur">dieur</w>
+          <w pos="NOUN" lemma="fist">fist</w>
+          <w pos="PRON" lemma="qui">qui</w>
+          <w pos="VERB" lemma="avoir">a</w>
+          <w pos="ADV" lemma="tant">tant</w>
+          <w pos="ADV" lemma="jusques">jusques</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z33"/>
+          <w pos="ADV" lemma="bien">bien</w>
+          <w pos="INTJ" lemma="pres">pres</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="NOUN" lemma="lune.">lune.</w>
+          <w pos="SCONJ" lemma="si">Si</w>
+          <w pos="ADV" lemma="ques">ques</w>
+          <w pos="DET" lemma="le">les</w>
+          <w pos="NOUN" lemma="eave">eaves</w>
+          <w pos="VERB" lemma="devoir">du</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z34"/>
+          <w pos="X" lemma="deluge">deluge</w>
+          <w pos="X" lemma="ny">ny</w>
+          <w pos="X" lemma="puent">puent</w>
+          <w pos="X" lemma="venir.">venir.</w>
+          <w pos="CCONJ" lemma="et">Et</w>
+          <w pos="SCONJ" lemma="si">si</w>
+          <w pos="VERB" lemma="amener">amena</w>
+          <w pos="NOUN" lemma="dieu">dieux</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z35"/>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="NOUN" lemma="terre">terre</w>
+          <w pos="ADJ" lemma="divers">divers</w>
+          <w pos="X" lemma="arbres.Es">arbres.Es</w>
+          <w pos="X" lemma="quielx">quielx</w>
+          <w pos="X" lemma="aiures">aiures</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z36"/>
+          <w pos="NOUN" lemma="lomme">lomme</w>
+          <w pos="AUX" lemma="être">fut</w>
+          <w pos="VERB" lemma="mettre">mise</w>
+          <w pos="ADP" lemma="a">a</w>
+          <w pos="NOUN" lemma="boit">boit</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="AUX" lemma="être">fut</w>
+          <w pos="ADJ" lemma="sainuisse">sainuisse</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z37"/>
+          <w pos="NOUN" lemma="mengier">mengier</w>
+          <w pos="INTJ" lemma="enla">enla</w>
+          <w pos="NOUN" lemma="moyenne">moyenne</w>
+          <w pos="DET" lemma="un">des</w>
+          <w pos="NOUN" lemma="quiele">quiele</w>
+          <w pos="PRON" lemma="lui">il</w>
+          <w pos="VERB" lemma="mouvoir">mut</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z38"/>
+          <w pos="NOUN" lemma="mal">mal</w>
+          <w pos="NOUN" lemma="com">com</w>
+          <w pos="DET" lemma="le">les</w>
+          <w pos="ADV" lemma="plus">plus</w>
+          <w pos="VERB" lemma="digner">dignez</w>
+          <w pos="PUNCT" lemma=".">.</w>
+          <w pos="DET" lemma="un">des</w>
+          <w pos="X" lemma=".iii.">.iii.</w>
+          <w pos="NOUN" lemma="fleume">fleumes</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z39"/>
+          <w pos="NOUN" lemma="mal">mal</w>
+          <w pos="NOUN" lemma="com">com</w>
+          <w pos="DET" lemma="le">les</w>
+          <w pos="ADV" lemma="plus">plus</w>
+          <w pos="VERB" lemma="digner">dignez</w>
+          <w pos="PUNCT" lemma=".">.</w>
+          <w pos="DET" lemma="un">des</w>
+          <w pos="X" lemma=".ii.">.ii.</w>
+          <w pos="NOUN" lemma="fleume">fleumes</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z40"/>
+          <w pos="NOUN" lemma="depardis.">depardis.</w>
+          <w pos="ADP" lemma="en">En</w>
+          <w pos="DET" lemma="un">un</w>
+          <w pos="NOUN" lemma="fleuve">fleuve</w>
+          <w pos="CCONJ" lemma="ou">ou</w>
+          <w pos="DET" lemma="un">une</w>
+          <w pos="NOUN" lemma="fontaine">fontaine</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z41"/>
+          <w pos="INTJ" lemma="yssoit">yssoit</w>
+          <w pos="ADJ" lemma="dun">dun</w>
+          <w pos="NOUN" lemma="lieu">lieu</w>
+          <w pos="ADP" lemma="pour">pour</w>
+          <w pos="X" lemma="a">a</w>
+          <w pos="VERB" lemma="rouser">rouser</w>
+          <w pos="X" lemma="paradis.">paradis.</w>
+          <w pos="X" lemma="Cest">Cest</w>
+          <w pos="X" lemma="a">a</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z42"/>
+          <w pos="VERB" lemma="dire">dire</w>
+          <w pos="DET" lemma="le">les</w>
+          <w pos="NOUN" lemma="arbre">arbres</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="paradis.">paradis.</w>
+          <w pos="CCONJ" lemma="et">Et</w>
+          <w pos="VERB" lemma="estoir">estoit</w>
+          <w pos="NOUN" lemma="arouse">arouse</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z43"/>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="NOUN" lemma="terre">terre</w>
+          <w pos="VERB" lemma="entour">entour</w>
+          <w pos="DET" lemma="un">des</w>
+          <w pos="X" lemma=".ii.">.ii.</w>
+          <w pos="ADJ" lemma="fleuve">fleuves</w>
+          <w pos="ADP" lemma="a">a</w>
+          <w pos="PROPN" lemma=".xiii.esta">.xiii.esta</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z44"/>
+          <w pos="X" lemma="bes">bes</w>
+          <w pos="X" lemma=".xdi.">.xdi.</w>
+          <w pos="X" lemma="estades">estades</w>
+          <w pos="VERB" lemma="faire">font</w>
+          <w pos="DET" lemma="un">une</w>
+          <w pos="NOUN" lemma="lieve.">lieve.</w>
+          <w pos="CCONJ" lemma="ou">ou</w>
+          <w pos="X" lemma="a">a</w>
+          <w pos="X" lemma="roi.pies">roi.pies</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z45"/>
+          <w pos="ADP" lemma="par">par</w>
+          <w pos="DET" lemma="divers">diverses</w>
+          <w pos="NOUN" lemma="uive">uives</w>
+          <w pos="INTJ" lemma="dessoubz">dessoubz</w>
+          <w pos="NOUN" lemma="terre">terre</w>
+          <w pos="PUNCT" lemma=".">.</w>
+          <w pos="CCONJ" lemma="et">Et</w>
+          <w pos="AUX" lemma="être">est</w>
+          <w pos="PRON" lemma="celui">cel</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z46"/>
+          <w pos="DET" lemma="le">le</w>
+          <w pos="NOUN" lemma="fontaine">fontaine</w>
+          <w pos="ADJ" lemma="deuise">deuisee</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="NOUN" lemma=".iii.">.iii.</w>
+          <w pos="NOUN" lemma="fleuve">fleuves</w>
+          <w pos="X" lemma="dove">dove</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z47"/>
+          <w pos="PRON" lemma="lui">lui</w>
+          <w pos="VERB" lemma="avoir">a</w>
+          <w pos="NOUN" lemma="nom">nom</w>
+          <w pos="NOUN" lemma="prison">prison</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="SCONJ" lemma="si">si</w>
+          <w pos="ADV" lemma="aussi">aussi</w>
+          <w pos="ADP" lemma="a">a</w>
+          <w pos="NOUN" lemma="nom">nom</w>
+          <w pos="X" lemma="ga">ga</w>
+          <w pos="NOUN" lemma="vage">vages</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z48"/>
+          <w pos="X" lemma="dui">dui</w>
+          <roleName type="nobility">
+            <w pos="X" lemma="roy">roy</w>
+          </roleName>
+          <w pos="X" lemma="dy">dy</w>
+          <w pos="X" lemma="dynde">dynde</w>
+          <w pos="X" lemma="qui">qui</w>
+          <w pos="X" lemma="ot">ot</w>
+          <w pos="X" lemma="nom">nom</w>
+          <w pos="X" lemma="gaignes">gaignes</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z49"/>
+          <w pos="X" lemma="dui">dui</w>
+          <roleName type="nobility">
+            <w pos="X" lemma="roy">roy</w>
+          </roleName>
+          <w pos="X" lemma="dynde">dynde</w>
+          <w pos="PRON" lemma="qui">qui</w>
+          <w pos="X" lemma="ot">ot</w>
+          <w pos="NOUN" lemma="nom">nom</w>
+          <w pos="X" lemma="gaignie">gaignie</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z50"/>
+          <w pos="NOUN" lemma="raul">raul</w>
+          <w pos="X" lemma="aut">aut</w>
+          <w pos="ADV" lemma="tant">tant</w>
+          <w pos="NOUN" lemma="parbison">parbison</w>
+          <w pos="ADP" lemma="comme">comme</w>
+          <w pos="NOUN" lemma="compaignie">compaignie</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z51"/>
+          <w pos="CCONJ" lemma="car">car</w>
+          <w pos="PRON" lemma="lui">il</w>
+          <w pos="VERB" lemma="recevoir">recoit</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="NOUN" lemma="luy">luy</w>
+          <w pos="DET" lemma="un">des</w>
+          <w pos="NOUN" lemma="flume">flumes</w>
+          <w pos="CCONJ" lemma="ou">ou</w>
+          <w pos="X" lemma="communememememememem̃t">communememememememem̃t</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z52"/>
+          <w pos="CCONJ" lemma="car">car</w>
+          <w pos="PRON" lemma="lui">il</w>
+          <w pos="PRON" lemma="soi">se</w>
+          <w pos="VERB" lemma="mouvoir">mue</w>
+          <w pos="ADV" lemma="souvent">souvent</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="couleur">couleur</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="ADP" lemma="de">de</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z53"/>
+          <w pos="NOUN" lemma="grandeur">grandeur</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="NOUN" lemma="maniere">maniere</w>
+          <w pos="PRON" lemma="qui">qui</w>
+          <w pos="VERB" lemma="avoir">a</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="NOUN" lemma="paradis">paradis</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z54"/>
+          <w pos="ADP" lemma="selon">selon</w>
+          <w pos="DET" lemma="le">les</w>
+          <w pos="ADJ" lemma="divers">divers</w>
+          <w pos="NOUN" lemma="lieur">lieur</w>
+          <w pos="INTJ" lemma="la">la</w>
+          <w pos="PRON" lemma="on">on</w>
+          <w pos="X" lemma="court.">court.</w>
+          <w pos="CCONJ" lemma="car">Car</w>
+          <w pos="PRON" lemma="lui">il</w>
+          <w pos="AUX" lemma="être">est</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z55"/>
+          <w pos="NOUN" lemma="saint">saint</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="NOUN" lemma="reine">reine</w>
+          <w pos="NOUN" lemma="reine">reine</w>
+          <w pos="ADP" lemma="de">de</w>
+          <placeName>
+            <w pos="NOUN" lemma="france">france</w>
+          </placeName>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="VERB" lemma="deporter">deportoient</w>
+          <w pos="DET" lemma="un">des</w>
+          <w pos="NOUN" lemma="trovoient">trovoient</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="VERB" lemma="reqire">reqit</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z56"/>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="DET" lemma="un">un</w>
+          <w pos="NOUN" lemma="lieu">lieu</w>
+          <w pos="NOUN" lemma="cler">cler</w>
+          <w pos="PUNCT" lemma=".">.</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="PRON" lemma="autre">autre</w>
+          <w pos="NOUN" lemma="troubleables.">troubleables.</w>
+          <w pos="CCONJ" lemma="et">Et</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="PRON" lemma="un">un</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z57"/>
+          <w pos="NOUN" lemma="lieu">lieu</w>
+          <w pos="ADJ" lemma="grant">grant</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="ADJ" lemma="autre">autre</w>
+          <w pos="ADJ" lemma="petit">petit</w>
+          <w pos="PUNCT" lemma=".">.</w>
+          <w pos="CCONJ" lemma="et">Et</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="DET" lemma="un">un</w>
+          <w pos="NOUN" lemma="lieu">lieu</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z58"/>
+          <w pos="NOUN" lemma="froit">froit</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="ADJ" lemma="autre">autre</w>
+          <w pos="NOUN" lemma="chault">chault</w>
+          <w pos="PUNCT" lemma=".">.</w>
+          <w pos="CCONJ" lemma="et">Et</w>
+          <w pos="SCONJ" lemma="si">si</w>
+          <w pos="ADP" lemma="a">a</w>
+          <w pos="INTJ" lemma="uironne">uironne</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="X" lemma="t̾">t̾</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z59"/>
+          <w pos="X" lemma="re">re</w>
+          <w pos="X" lemma="de">de</w>
+          <w pos="X" lemma="enilain">enilain</w>
+          <w pos="X" lemma="cest">cest</w>
+          <w pos="X" lemma="ẜude">ẜude</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="VERB" lemma="donner">donne</w>
+          <w pos="X" lemma="grancele">grancele</w>
+          <w pos="X" lemma="dorlau">dorlau</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z60"/>
+          <w pos="X" lemma="tre">tre</w>
+          <w pos="X" lemma="a">a</w>
+          <w pos="X" lemma="avom">avom</w>
+          <w pos="X" lemma="g̾on">g̾on</w>
+          <w pos="CCONJ" lemma="ou">ou</w>
+          <w pos="X" lemma="nullus">nullus</w>
+          <w pos="SCONJ" lemma="si">si</w>
+          <w pos="X" lemma="veult">veult</w>
+          <w pos="ADP" lemma="au">au</w>
+          <w pos="ADV" lemma="tant">tant</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z61"/>
+          <w pos="INTJ" lemma="gͥon">gͥon</w>
+          <w pos="ADP" lemma="comme">comme</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="terre">terre</w>
+          <w pos="CCONJ" lemma="car">car</w>
+          <w pos="PRON" lemma="lui">il</w>
+          <w pos="AUX" lemma="être">est</w>
+          <w pos="ADV" lemma="moult">moult</w>
+          <w pos="INTJ" lemma="troublez">troublez</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z62"/>
+          <w pos="PROPN" lemma="Cilz">Cilz</w>
+          <w pos="VERB" lemma="auiironner">auiironne</w>
+          <w pos="X" lemma="ethẏope.">ethẏope.</w>
+          <w pos="PROPN" lemma="Lautre">Lautre</w>
+          <w pos="VERB" lemma="avoir">a</w>
+          <w pos="NOUN" lemma="nom">nom</w>
+          <w pos="NOUN" lemma="cygre">cygres</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z63"/>
+          <w pos="ADP" lemma="pour">pour</w>
+          <w pos="DET" lemma="ce">ce</w>
+          <w pos="NOUN" lemma="quil">quil</w>
+          <w pos="VERB" lemma="courir">court</w>
+          <w pos="ADV" lemma="si">si</w>
+          <w pos="ADV" lemma="roidement">roidement</w>
+          <w pos="INTJ" lemma="ala">ala</w>
+          <w pos="VERB" lemma="sembler">semblant</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z64"/>
+          <w pos="DET" lemma="ce">ce</w>
+          <w pos="NOUN" lemma="dume">dume</w>
+          <w pos="NOUN" lemma="beste">beste</w>
+          <w pos="X" lemma="con">con</w>
+          <w pos="VERB" lemma="appeler">appelle</w>
+          <w pos="NOUN" lemma="ty̾gre">ty̾gre</w>
+          <w pos="PRON" lemma="qui">qui</w>
+          <w pos="ADV" lemma="trop">trop</w>
+          <w pos="ADJ" lemma="mueil">mueil</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z65"/>
+          <w pos="NOUN" lemma="leusement">leusement</w>
+          <w pos="ADJ" lemma="court">court</w>
+          <w pos="PUNCT" lemma="tost.">tost.</w>
+          <w pos="PROPN" lemma="Cil">Cil</w>
+          <w pos="VERB" lemma="courir">court</w>
+          <w pos="ADP" lemma="contre">contre</w>
+          <w pos="DET" lemma="le">les</w>
+          <w pos="NOUN" lemma="ac">ac</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z66"/>
+          <w pos="X" lemma="siriens.oufintes">siriens.oufintes</w>
+          <w pos="VERB" lemma="faire">fait</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="NOUN" lemma="terre">terre</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="CCONJ" lemma="ou">ou</w>
+          <w pos="PRON" lemma="lui">il</w>
+          <w pos="VERB" lemma="courir">court</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z67"/>
+          <w pos="VERB" lemma="porter">porter</w>
+          <w pos="ADV" lemma="moult">moult</w>
+          <w pos="DET" lemma="un">des</w>
+          <w pos="NOUN" lemma="bien">biens</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="ADV" lemma="ne">ne</w>
+          <w pos="VERB" lemma="nonner">nonna</w>
+          <w pos="NOUN" lemma="mie">mie</w>
+          <w pos="NOUN" lemma="moy">moy</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z68"/>
+          <w pos="DET" lemma="son">ses</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="NOUN" lemma="terre">terre</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="CCONJ" lemma="ou">ou</w>
+          <w pos="PRON" lemma="lui">il</w>
+          <w pos="VERB" lemma="courir">court</w>
+          <w pos="ADV" lemma="aussi">aussi</w>
+          <w pos="ADP" lemma="comme">comme</w>
+          <w pos="PRON" lemma="soi">se</w>
+          <w pos="VERB" lemma="chac">chac</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z69"/>
+          <w pos="INTJ" lemma="cun">cun</w>
+          <w pos="DET" lemma="le">le</w>
+          <w pos="X" lemma="sceuc.">sceuc.</w>
+          <w pos="CCONJ" lemma="car">Car</w>
+          <w pos="PRON" lemma="lui">il</w>
+          <w pos="VERB" lemma="courir">court</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="NOUN" lemma="caldee">caldee</w>
+          <w pos="CCONJ" lemma="dont">dont</w>
+          <w pos="X" lemma="abra">abra</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z70"/>
+          <w pos="X" lemma="lain">lain</w>
+          <w pos="X" lemma="uint">uint</w>
+          <w pos="PUNCT" lemma=".">.</w>
+          <w pos="X" lemma="Cilz">Cilz</w>
+          <w pos="X" lemma=".ii.">.ii.</w>
+          <w pos="SCONJ" lemma="si">si</w>
+          <w pos="NOUN" lemma="com">com</w>
+          <w pos="PRON" lemma="nous">nous</w>
+          <w pos="AUX" lemma="avoir">avons</w>
+          <w pos="VERB" lemma="dire">dit</w>
+          <w pos="INTJ" lemma="uien">uien</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z71"/>
+          <w pos="NOUN" lemma="vent">vent</w>
+          <w pos="ADJ" lemma="dun">dune</w>
+          <w pos="NOUN" lemma="meisme">meisme</w>
+          <w pos="NOUN" lemma="fontaine">fontaine</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="PRON" lemma="soi">se</w>
+          <w pos="VERB" lemma="deporter">deportent</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z72"/>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="ADV" lemma="donc">donc</w>
+          <w pos="PRON" lemma="soi">se</w>
+          <w pos="VERB" lemma="remelier">remelient</w>
+          <w pos="DET" lemma="aucun">aucun</w>
+          <w pos="NOUN" lemma="deul">deulx</w>
+          <w pos="ADV" lemma="ensemble">ensemble</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z73"/>
+          <w pos="ADP" lemma="par">par</w>
+          <w pos="NOUN" lemma="lieur">lieur</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="ADV" lemma="donc">donc</w>
+          <w pos="PRON" lemma="soi">se</w>
+          <w pos="VERB" lemma="departer">departent</w>
+          <w pos="ADJ" lemma="arriere">arriere</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="INTJ" lemma="moult">moult</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z74"/>
+          <w pos="VERB" lemma="souvenir">souvient</w>
+          <w pos="VERB" lemma="entrer">entrent</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="NOUN" lemma="terre">terre</w>
+          <w pos="ADP" lemma="par">par</w>
+          <w pos="NOUN" lemma="lieu">lieux</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="ADV" lemma="ailleurs">ailleurs</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z75"/>
+          <w pos="PRON" lemma="en">en</w>
+          <w pos="VERB" lemma="sailler">saillent</w>
+          <w pos="ADP" lemma="hors.">hors.</w>
+          <w pos="DET" lemma="du">du</w>
+          <w pos="NOUN" lemma="conmandement">conmandement</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="DET" lemma="le">la</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z76"/>
+          <w pos="PRON" lemma="en">en</w>
+          <w pos="VERB" lemma="sailler">saillent</w>
+          <w pos="ADP" lemma="hors.Du">hors.Du</w>
+          <w pos="NOUN" lemma="conmandement">conmandement</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="DET" lemma="le">la</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z77"/>
+          <w pos="NOUN" lemma="deffense">deffense</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="NOUN" lemma="pomme">pomme</w>
+          <w pos="ADJ" lemma="mengier">mengier</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="NOUN" lemma="form">form</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z78"/>
+          <w pos="NOUN" lemma="cation">cation</w>
+          <w pos="ADP" lemma="dela">dela</w>
+          <w pos="NOUN" lemma="femme.">femme.</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="NOUN" lemma="coste">coste</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="lomme.">lomme.</w>
+          <w pos="CCONJ" lemma="et">Et</w>
+          <w pos="DET" lemma="un">des</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z79"/>
+          <w pos="PRON" lemma="vous">vous</w>
+          <w pos="NOUN" lemma="nom">noms</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="NOUN" lemma="femme">femme</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="X" lemma="prophecie">prophecie</w>
+          <w pos="X" lemma="aan">aan</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z80"/>
+          <w pos="NOUN" lemma="dieu">dieux</w>
+          <w pos="ADJ" lemma="lomme">lomme</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="DET" lemma="le">le</w>
+          <w pos="X" lemma="mist">mist</w>
+          <w pos="ADP" lemma="en">en</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z81"/>
+          <w pos="NOUN" lemma="paradis">paradis</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="delice">delices</w>
+          <w pos="ADP" lemma="pour">pour</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z82"/>
+          <w pos="DET" lemma="ce">ce</w>
+          <w pos="NOUN" lemma="quil">quil</w>
+          <w pos="VERB" lemma="ouvrir">ouvrast</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="DET" lemma="le">le</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z83"/>
+          <w pos="NOUN" lemma="gardast">gardast</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="NOUN" lemma="lyman">lyman</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z84"/>
+          <w pos="NOUN" lemma="ça">ca</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="X" lemma="dist.">dist.</w>
+          <w pos="NOUN" lemma="mengne">mengne</w>
+          <w pos="ADP" lemma="de">de</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z85"/>
+          <w pos="INTJ" lemma="touz">touz</w>
+          <w pos="DET" lemma="le">les</w>
+          <w pos="NOUN" lemma="fruiz">fruiz</w>
+          <w pos="DET" lemma="un">des</w>
+          <w pos="NOUN" lemma="arbre">arbres</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z86"/>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="paradis.">paradis.</w>
+          <w pos="CCONJ" lemma="mais">Mais</w>
+          <w pos="ADV" lemma="ne">ne</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z87"/>
+          <w pos="NOUN" lemma="mengue">mengue</w>
+          <w pos="PRON" lemma="un">une</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="larbre">larbre</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="science">science</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="bien">bien</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="ADP" lemma="de">de</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z88"/>
+          <w pos="X" lemma="mal.">mal.</w>
+          <w pos="CCONJ" lemma="car">Car</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="ADJ" lemma="quelconque">quelconques</w>
+          <w pos="NOUN" lemma="jour">jour</w>
+          <w pos="INTJ" lemma="que">qu</w>
+          <w pos="PRON" lemma="toi">tu</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="NOUN" lemma="men">men</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z89"/>
+          <w pos="X" lemma="mal.">mal.</w>
+          <w pos="CCONJ" lemma="car">Car</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="ADJ" lemma="quelconque">quelconques</w>
+          <w pos="NOUN" lemma="jour">jour</w>
+          <w pos="PRON" lemma="qui">qui</w>
+          <w pos="PRON" lemma="toi">tu</w>
+          <w pos="PRON" lemma="en">en</w>
+          <w pos="X" lemma="men">men</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z90"/>
+          <w pos="X" lemma="geras">geras</w>
+          <w pos="PRON" lemma="toi">tu</w>
+          <w pos="X" lemma="mourras">mourras</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="X" lemma="mout.">mout.</w>
+          <w pos="X" lemma="close.">close.</w>
+          <w pos="ADP" lemma="de">De</w>
+          <w pos="NOUN" lemma="mort">mort</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z91"/>
+          <w pos="CCONJ" lemma="voire">voire</w>
+          <w pos="ADV" lemma="même">même</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="NOUN" lemma="mort">mort</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="lame">lame</w>
+          <w pos="PUNCT" lemma=".">.</w>
+          <w pos="PROPN" lemma="Sierte.">Sierte.</w>
+          <w pos="ADP" lemma="de">De</w>
+          <w pos="NOUN" lemma="rechief">rechief</w>
+          <lb n="Grande_Bible_historiale_complétée_Maître_du_btv1b8449691v_z92"/>
+          <w pos="VERB" lemma="dire">dist</w>
+          <w pos="DET" lemma="un">une</w>
+          <roleName type="nobility">
+            <w pos="NOUN" lemma="sire">sire</w>
+          </roleName>
+          <w pos="ADJ" lemma="dieur">dieure</w>
+          <w pos="DET" lemma="ce">ce</w>
+          <w pos="NOUN" lemma="nest">nest</w>
+          <w pos="NOUN" lemma="mie">mie</w>
+          <w pos="INTJ" lemma="bon">bon</w>
+          <w pos="INTJ" lemma="lomme">lomme</w>
+          <w pos="NOUN" lemma="estre">estre</w>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

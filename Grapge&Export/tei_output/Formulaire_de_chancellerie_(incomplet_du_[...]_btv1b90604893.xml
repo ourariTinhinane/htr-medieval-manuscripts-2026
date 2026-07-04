@@ -1,0 +1,288 @@
+<?xml version='1.0' encoding='UTF-8'?>
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcription HTR — Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893</title>
+        <author>Pipeline HETIC MD5 2026</author>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
+  <text>
+    <body>
+      <div type="transcription">
+        <p>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z0"/>
+          <w pos="PROPN" lemma="Are">Are</w>
+          <w pos="ADP" lemma="par">par</w>
+          <w pos="PRON" lemma="lequel">laquelle</w>
+          <w pos="PRON" lemma="monẜ">monẜ</w>
+          <w pos="VERB" lemma="ordonner">ordonne</w>
+          <w pos="SCONJ" lemma="que">que</w>
+          <w pos="PROPN" lemma="celluy">celluy</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z1"/>
+          <w pos="VERB" lemma="avoir">a</w>
+          <w pos="PRON" lemma="qui">qui</w>
+          <w pos="VERB" lemma="avoir">a</w>
+          <w pos="PRON" lemma="ce">ce</w>
+          <w pos="AUX" lemma="être">fut</w>
+          <w pos="DET" lemma="le">le</w>
+          <w pos="NOUN" lemma="di">di</w>
+          <w pos="NOUN" lemma="tansport">tansport</w>
+          <w pos="INTJ" lemma="reque">reque</w>
+          <w pos="PRON" lemma="ce">ce</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z2"/>
+          <w pos="PUNCT" lemma=".xlxii.">.xlxii.</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z3"/>
+          <w pos="NOUN" lemma="quil">quil</w>
+          <w pos="AUX" lemma="avoir">a</w>
+          <w pos="VERB" lemma="vaillir">vaillie</w>
+          <w pos="DET" lemma="au">au</w>
+          <w pos="NOUN" lemma="tansyortant">tansyortant</w>
+          <w pos="ADP" lemma="pour">pour</w>
+          <w pos="X" lemma="lez">lez</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z4"/>
+          <w pos="ADV" lemma="ne">Ne</w>
+          <w pos="VERB" lemma="parer">parons</w>
+          <w pos="PRON" lemma="quil">quil</w>
+          <w pos="PRON" lemma="y">y</w>
+          <w pos="VERB" lemma="afoir">afait</w>
+          <w pos="X" lemma="fe">fe</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z5"/>
+          <w pos="PROPN" lemma="Tansiert">Tansiert</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="X" lemma="uier">uier</w>
+          <w pos="DET" lemma="son">son</w>
+          <w pos="X" lemma="a">a</w>
+          <w pos="X" lemma="monf">monf</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="X" lemma="Renus">Renus</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z6"/>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="NOUN" lemma="deduition">deduition</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="ADJ" lemma="grand">grand</w>
+          <w pos="NOUN" lemma="somme">somme</w>
+          <w pos="SCONJ" lemma="que">que</w>
+          <w pos="DET" lemma="le">le</w>
+          <roleName type="nobility">
+            <w pos="PROPN" lemma="Roy">Roy</w>
+          </roleName>
+          <w pos="PROPN" lemma="lun">lun</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z7"/>
+          <w pos="INTJ" lemma="doibt">doibt</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z8"/>
+          <w pos="ADP" lemma="à">A</w>
+          <w pos="NOUN" lemma="ordre">ordre</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="ADP" lemma="a">a</w>
+          <w pos="NOUN" lemma="guolution">guolution</w>
+          <w pos="DET" lemma="du">du</w>
+          <roleName type="nobility">
+            <w pos="PROPN" lemma="Roy">Roy</w>
+          </roleName>
+          <w pos="PROPN" lemma="du">du</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z9"/>
+          <w pos="NOUN" lemma="tanssoit">tanssoit</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="NOUN" lemma="don">don</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="X" lemma="uierz">uierz</w>
+          <w pos="DET" lemma="son">son</w>
+          <w pos="NOUN" lemma="fait">fait</w>
+          <w pos="PRON" lemma="y">y</w>
+          <w pos="NOUN" lemma="lantemque">lantemques</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z10"/>
+          <w pos="PUNCT" lemma="...">...</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z11"/>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="PROPN" lemma="Renus">Renus</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="VERB" lemma="avoir">a</w>
+          <w pos="PRON" lemma="tout">tout</w>
+          <w pos="PRON" lemma="soi">se</w>
+          <w pos="AUX" lemma="avoir">a</w>
+          <w pos="NOUN" lemma="ciouse">ciouse</w>
+          <w pos="VERB" lemma="dire">dit</w>
+          <w pos="DET" lemma="du">du</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z12"/>
+          <w pos="DET" lemma="son">ma</w>
+          <w pos="NOUN" lemma="riage">riage</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="DET" lemma="son">sa</w>
+          <w pos="NOUN" lemma="mercye">mercye</w>
+          <w pos="ADP" lemma="avec">avec</w>
+          <w pos="DET" lemma="le">le</w>
+          <w pos="NOUN" lemma="siire">siire</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="VERB" lemma="uiuir">uiuient</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z13"/>
+          <w pos="PROPN" lemma="Uaulte">Uaulte</w>
+          <w pos="NOUN" lemma="justice">justice</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z14"/>
+          <w pos="DET" lemma="un">Un</w>
+          <w pos="X" lemma="cuid">cuid</w>
+          <w pos="X" lemma="caudmali">caudmali</w>
+          <w pos="X" lemma="condun">condun</w>
+          <w pos="X" lemma="mistura">mistura</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z15"/>
+          <w pos="PROPN" lemma="Chartre">Chartre</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="p̾milege">p̾milege</w>
+          <w pos="PRON" lemma="soi">se</w>
+          <w pos="VERB" lemma="transport">transport</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="justice">justice</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z16"/>
+          <w pos="NOUN" lemma="haulte">haulte</w>
+          <w pos="VERB" lemma="avoir">a</w>
+          <w pos="DET" lemma="un">un</w>
+          <w pos="NOUN" lemma="conseilz">conseilz</w>
+          <w pos="DET" lemma="du">du</w>
+          <roleName type="nobility">
+            <w pos="PROPN" lemma="Roy">Roy</w>
+          </roleName>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="DET" lemma="son">sa</w>
+          <w pos="NOUN" lemma="t̾re">t̾re</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z17"/>
+          <w pos="PUNCT" lemma=".xlxxxuiii.">.xlxxxuiii.</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z18"/>
+          <w pos="PROPN" lemma="Don">Don</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="haulte">haulte</w>
+          <w pos="NOUN" lemma="justice">justice</w>
+          <w pos="VERB" lemma="avoir">a</w>
+          <w pos="NUM" lemma="deux">deux</w>
+          <w pos="NOUN" lemma="pillier">pilliers</w>
+          <w pos="X" lemma="uꝰ">uꝰ</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z19"/>
+          <w pos="NOUN" lemma="saint">saint</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="saint">saint</w>
+          <w pos="NOUN" lemma="penyion">penyion</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="PROPN" lemma="saint">saint</w>
+          <w pos="PROPN" lemma="de">de</w>
+          <w pos="X" lemma="młt">młt</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z20"/>
+          <w pos="NOUN" lemma="saint">saint</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="DET" lemma="le">le</w>
+          <w pos="NOUN" lemma="penun">penun</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="saint">saint</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="PROPN" lemma="saint">saint</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="mlt">mlt</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z21"/>
+          <w pos="NOUN" lemma="enfance">enfance</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z22"/>
+          <w pos="PUNCT" lemma="-">-</w>
+          <w pos="X" lemma="i">i</w>
+          <w pos="X" lemma="yuile">yuile</w>
+          <w pos="X" lemma="gind">gind</w>
+          <w pos="X" lemma="occi">occi</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z23"/>
+          <w pos="PUNCT" lemma="-">-</w>
+          <w pos="PROPN" lemma="Ihunssius">Ihunssius</w>
+          <w pos="X" lemma="yuilegind">yuilegind</w>
+          <w pos="VERB" lemma="attendre">attend</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z24"/>
+          <w pos="PUNCT" lemma=".uix.">.uix.</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z25"/>
+          <w pos="SCONJ" lemma="si">Si</w>
+          <w pos="X" lemma="conuentui">conuentui</w>
+          <w pos="X" lemma="un">un</w>
+          <w pos="X" lemma="dioussi">dioussi</w>
+          <w pos="X" lemma="infancia">infancia</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z26"/>
+          <w pos="X" lemma="Confrirmand">Confrirmand</w>
+          <w pos="X" lemma="sua">sua</w>
+          <w pos="X" lemma="p̾uilega">p̾uilega</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z27"/>
+          <w pos="PROPN" lemma="Deccion">Deccion</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="NOUN" lemma="fille">fille</w>
+          <w pos="DET" lemma="du">du</w>
+          <roleName type="nobility">
+            <w pos="PROPN" lemma="Roy">Roy</w>
+          </roleName>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="NOUN" lemma="religion">religion</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="NOUN" lemma="laite">laite</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z28"/>
+          <w pos="PUNCT" lemma="¶">¶</w>
+          <w pos="DET" lemma="un">Un</w>
+          <w pos="NOUN" lemma="seel">seel</w>
+          <w pos="X" lemma="au">au</w>
+          <w pos="NOUN" lemma="collogue">collogue</w>
+          <w pos="X" lemma="deu">deu</w>
+          <w pos="X" lemma="notur̾">notur̾</w>
+          <w pos="X" lemma="du">du</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z29"/>
+          <w pos="NOUN" lemma="non..">non..</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z30"/>
+          <w pos="PUNCT" lemma=".xii.">.xii.</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z31"/>
+          <w pos="PUNCT" lemma=".Cxii.">.Cxii.</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z32"/>
+          <w pos="X" lemma="Concedituz">Concedituz</w>
+          <w pos="X" lemma="collegio">collegio</w>
+          <w pos="X" lemma="notanois">notanois</w>
+          <w pos="PUNCT" lemma="⁋">⁋</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z33"/>
+          <w pos="X" lemma="theant">theant</w>
+          <w pos="X" lemma="signillid">signillid</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="X" lemma="communtatẽ">communtatẽ</w>
+          <w pos="X" lemma="y">y</w>
+          <w pos="AUX" lemma="être">suis</w>
+          <w pos="X" lemma="Iurbez">Iurbez</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z34"/>
+          <w pos="X" lemma="obstrandis">obstrandis</w>
+          <w pos="PRON" lemma="y">y</w>
+          <w pos="INTJ" lemma="la">la</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z35"/>
+          <w pos="NOUN" lemma="communte">Communte</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="NOUN" lemma="maime">maime</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="DET" lemma="un">une</w>
+          <w pos="NOUN" lemma="uille">uille</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z36"/>
+          <w pos="X" lemma="Carca">Carca</w>
+          <w pos="X" lemma="de">de</w>
+          <w pos="X" lemma="contedume">contedume</w>
+          <w pos="X" lemma="staboine">staboine</w>
+          <w pos="CCONJ" lemma="et">et</w>
+          <w pos="X" lemma="huntilz">huntilz</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z37"/>
+          <w pos="X" lemma="cuidan">cuidan</w>
+          <w pos="VERB" lemma="cuiunter">cuiuntant</w>
+          <w pos="DET" lemma="le">la</w>
+          <w pos="NOUN" lemma="maronre">maronre</w>
+          <w pos="INTJ" lemma="heant">heant</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z38"/>
+          <w pos="NOUN" lemma="usaute">usaute</w>
+          <w pos="ADP" lemma="en">en</w>
+          <w pos="NOUN" lemma="forest">forest</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z39"/>
+          <w pos="NOUN" lemma="putain">putain</w>
+          <w pos="ADP" lemma="de">de</w>
+          <w pos="NOUN" lemma="mec">mec</w>
+          <w pos="DET" lemma="le">le</w>
+          <w pos="X" lemma="quyid">quyid</w>
+          <w pos="X" lemma="fousta">fousta</w>
+          <w pos="X" lemma="a">a</w>
+          <w pos="X" lemma="lui⸧">lui⸧</w>
+          <lb n="Formulaire_de_chancellerie_(incomplet_du_[...]_btv1b90604893_z40"/>
+          <w pos="PUNCT" lemma=".xxxu.">.xxxu.</w>
+        </p>
+      </div>
+    </body>
+  </text>
+</TEI>

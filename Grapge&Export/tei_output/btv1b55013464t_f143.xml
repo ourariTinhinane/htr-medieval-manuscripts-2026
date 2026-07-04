@@ -1,8 +1,16 @@
 <?xml version='1.0' encoding='UTF-8'?>
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
+  <teiHeader>
+    <fileDesc>
+      <titleStmt>
+        <title>Transcription HTR — btv1b55013464t_f143</title>
+        <author>Pipeline HETIC MD5 2026</author>
+      </titleStmt>
+    </fileDesc>
+  </teiHeader>
   <text>
     <body>
-      <div type="acte">
+      <div type="transcription">
         <p>
           <lb n="btv1b55013464t_f143_z0"/>
           <w pos="NOUN" lemma="h">h</w>
@@ -49,11 +57,11 @@
           <w pos="DET" lemma="ce">ce</w>
           <w pos="NOUN" lemma="monte">monte</w>
           <lb n="btv1b55013464t_f143_z6"/>
-          <w pos="INTJ" lemma="ahi">ahi</w>
+          <w pos="DET" lemma="son">ma</w>
           <w pos="ADJ" lemma="doux">douce</w>
           <w pos="NOUN" lemma="niece">niece</w>
           <persName>
-            <w pos="ADJ" lemma="mabile">mabile</w>
+            <w pos="NOUN" lemma="mabile">mabile</w>
           </persName>
           <lb n="btv1b55013464t_f143_z7"/>
           <w pos="SCONJ" lemma="si">Si</w>
@@ -61,7 +69,9 @@
           <w pos="ADV" lemma="tout">tout</w>
           <w pos="ADP" lemma="en">en</w>
           <w pos="X" lemma=".i.">.i.</w>
-          <w pos="NOUN" lemma="conte">conte</w>
+          <roleName type="nobility">
+            <w pos="NOUN" lemma="conte">conte</w>
+          </roleName>
           <lb n="btv1b55013464t_f143_z8"/>
           <w pos="ADV" lemma="tant">tant</w>
           <w pos="VERB" lemma="estuyer">estuiez</w>
@@ -299,7 +309,9 @@
           <w pos="X" lemma="qͥ">qͥ</w>
           <w pos="INTJ" lemma="fist">fist</w>
           <w pos="DET" lemma="son">mon</w>
-          <w pos="NOUN" lemma="conte">conte</w>
+          <roleName type="nobility">
+            <w pos="NOUN" lemma="conte">conte</w>
+          </roleName>
           <lb n="btv1b55013464t_f143_z41"/>
           <w pos="ADV" lemma="plus">Plus</w>
           <w pos="SCONJ" lemma="que">que</w>
@@ -590,7 +602,9 @@
           <w pos="SCONJ" lemma="que">que</w>
           <w pos="X" lemma="li">li</w>
           <w pos="NOUN" lemma="uilain">uilains</w>
-          <w pos="VERB" lemma="conter">conte</w>
+          <roleName type="nobility">
+            <w pos="VERB" lemma="conter">conte</w>
+          </roleName>
           <w pos="CCONJ" lemma="et">et</w>
           <w pos="VERB" lemma="assambler">assamble</w>
           <lb n="btv1b55013464t_f143_z79"/>

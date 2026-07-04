@@ -1,0 +1,36 @@
+{
+  "htr_par_type": {
+    "n_lignes": {
+      "administratif": 84,
+      "littéraire": 293
+    },
+    "conf_moyenne": {
+      "administratif": 0.7513,
+      "littéraire": 0.9264
+    },
+    "conf_mediane": {
+      "administratif": 0.7567,
+      "littéraire": 0.9396
+    },
+    "conf_min": {
+      "administratif": 0.4496,
+      "littéraire": 0.4648
+    },
+    "taux_review": {
+      "administratif": 0.4762,
+      "littéraire": 0.0171
+    }
+  },
+  "ner_par_type": {
+    "littéraire": {
+      "n_entites": 23
+    },
+    "administratif": {
+      "n_entites": 10
+    }
+  },
+  "relations_par_type": {
+    "littéraire": 1,
+    "administratif": 0
+  }
+}

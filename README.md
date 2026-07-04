@@ -162,44 +162,11 @@ pytest tests/ -v
 
 \---
 
-## Structure du dépôt
-
-```
-htr-medieval-manuscripts-2026/
-├── README.md
-├── requirements.txt
-├── CONVENTIONS\_TRANSCRIPTION.md
-├── DATA\_SOURCES.md
-├── MODEL\_CARD.md
-├── notebooks/
-│   ├── projet\_HTR.ipynb           ← pipeline CV principal
-│   └── HTR\_au\_NLP.ipynb           ← pipeline NLP + démo Gallica
-├── tests/
-│   └── test\_pipeline.py
-├── data/
-│   └── test\_set\_hash.txt          ← SHA-256 du test set
-├── dataset\_nlp/
-│   └── transcriptions\_nouvelles\_images.json
-├── page\_xml/
-│   ├── btv1b55013464t\_f141.xml
-│   └── btv1b55013464t\_f143.xml
-└── nlp/
-    ├── corpus\_normalise\_taln.json
-    ├── corpus\_ner.conll
-    ├── relations.json
-    ├── triplets\_a\_valider.json
-    ├── knowledge\_graph.jsonld
-    ├── abbreviations\_inventory.json
-    ├── needs\_review\_report.json
-    └── tei\_output/
-        ├── btv1b55013464t\_f141.xml
-        └── btv1b55013464t\_f143.xml
-```
-
 ## Modèles publiés
 
-* TrOCR fine-tuné : \[à publier sur HuggingFace avant le rendu final]
-* YOLO layout : `biglam/medieval-manuscript-yolov11n` (HuggingFace)
+* Camembert fine-tuné (NLP) : https://huggingface.co/TinhinaneO/camembert-ner-medieval-french-2026
+* TrOCR fine-tuné (CV) : https://huggingface.co/TinhinaneO/trocr-medieval-french-2026
+
 
 \---
 
@@ -208,4 +175,3 @@ htr-medieval-manuscripts-2026/
 * Corpus : CC-BY (CREMMA, GalliCorpora, Fabliaux)
 * Modèles : microsoft/trocr-base-handwritten (MIT), biglam/medieval-manuscript-yolov11 (Apache 2.0)
 * Code : MIT
-
